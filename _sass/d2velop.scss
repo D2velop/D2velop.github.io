@@ -1,0 +1,17 @@
+// .post-list {
+//   list-style: none;
+//   display: flex;
+//   flex-flow: row wrap;
+//   justify-content: space-around;
+//   margin-left: 0px;
+
+//   > li {
+//     margin-bottom: $spacing-unit;
+//   }
+// }
+
+.post-card {
+  border-left: 4px dotted #64e2e7;
+  padding: 0 0 1rem 2rem;
+  width: 40%;
+}
