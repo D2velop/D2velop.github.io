@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Je suis un ingénieur en informatique spécialisé dans la conception et le développement. Je suis passionné par les technologies du numérique et j’accorde beaucoup d’attention à la valeur apportée par ces dernières aux utilisateurs finaux. Je mets aussi un point d'honneur à livrer du code de qualité en m'appuyant sur les bonnes pratiques du développement logiciel et défend les valeurs du software craftmanship. La philosophie agile est, pour moi, un garant du bon déroulement d'un projet, maximisant l'adéquation avec le besoin client tout en réduisant les risques liés à l'incertitude et aux aléas.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+J'aime partager mes compétences et j'ai une appétence particulière pour l'encadrement des développeurs juniors.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Je suis également en quête de sens, aucune technologie étant une fin en elle-même, j'ai besoin de savoir pourquoi je travaille et qu'elle est la valeur produite.
