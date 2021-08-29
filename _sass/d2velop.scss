@@ -1,17 +1,40 @@
-// .post-list {
-//   list-style: none;
-//   display: flex;
-//   flex-flow: row wrap;
-//   justify-content: space-around;
-//   margin-left: 0px;
+.header-wrapper {
+  //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
+  //max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: $spacing-unit;
+  padding-left: $spacing-unit;
+  //@extend %clearfix;
 
-//   > li {
-//     margin-bottom: $spacing-unit;
-//   }
-// }
+  @include media-query($on-laptop) {
+    //max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+    //max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+    padding-right: $spacing-unit / 2;
+    padding-left: $spacing-unit / 2;
+  }
+}
+
+.intro {
+  text-align: center;
+}
+
+
+.post-list {
+  list-style: none;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  margin-left: 0px;
+
+  > li {
+    margin-bottom: $spacing-unit;
+  }
+}
 
 .post-card {
-  border-left: 4px dotted #64e2e7;
+  //border-left: 4px dotted #64e2e7;
   padding: 0 0 1rem 2rem;
   width: 40%;
+  min-width: 250px;
 }

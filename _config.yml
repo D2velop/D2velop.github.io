@@ -31,6 +31,7 @@ github_username:  cegerard
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -52,4 +53,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+lang: "fr"
 show_excerpts: true
+paginate: 4
+paginate_path: "/content/page_:num/"
