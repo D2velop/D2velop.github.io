@@ -21,11 +21,17 @@
 title: D2velop
 email: contact@d2velop.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  D2velop est un site de mentoring pour développeur.
-  Apprenez les bonnes pratiques et monter en compétence pour dévenir un(e) développeur(euse) épanoui(e)
+  Le blog de D2velop a été réalisé pour partager mes expériences dans le monde de la tech et mon vécu
+  en tant que développeur. Apprenez les bonnes pratiques et monter en compétence pour dévenir
+  un(e) développeur(euse) épanoui(e).
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://D2velop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+author: Cédric Gérard
 github_username:  cegerard
+linkedin_username: cegerard
+twitter_username: eriatand
+rss: RSS
+date_format: "%d/%m/%Y"
 
 # Build settings
 theme: minima

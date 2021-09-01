@@ -17,8 +17,19 @@
 
 .intro {
   text-align: center;
+  border-bottom: $brand-color dotted 1px;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 
+.post-block {
+  display: flex;
+  flex-flow: column;
+
+  > h2 {
+    text-align: center;
+  }
+}
 
 .post-list {
   list-style: none;
@@ -26,15 +37,70 @@
   flex-flow: row wrap;
   justify-content: space-around;
   margin-left: 0px;
-
-  > li {
-    margin-bottom: $spacing-unit;
-  }
+  margin-top: 10px;
 }
 
 .post-card {
-  //border-left: 4px dotted #64e2e7;
   padding: 0 0 1rem 2rem;
   width: 40%;
   min-width: 250px;
+  border: 3px dotted $brand-color-2;
+  border-radius: 10% 25%;
+
+  &:hover {
+    border: 3px solid $brand-color-2;
+    color: $brand-color;
+    text-decoration: none;
+  }
+
+  &:active {
+    transform: translateY(4px);
+  }
+ 
+  &:visited {
+    color: $brand-color;
+  }
+
+  > p {
+    color: $text-color;
+  }
+
+  .title {
+    @include relative-font-size(1.5);
+  }
+
+  @include media-query($on-palm) {
+    padding: 1rem 1rem;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.rss-subscribe {
+  text-align: right;
+}
+
+/**
+ * Links
+ */
+ a {
+  color: $brand-color;
+  text-decoration: none;
+
+  &:visited {
+    color: darken($brand-color, 15%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: underline;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+
+    .username {
+      text-decoration: underline;
+    }
+  }
 }

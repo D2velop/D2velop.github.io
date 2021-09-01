@@ -1,12 +1,10 @@
 ---
 layout: default
+title: Accueil
+list_title: Les derniers articles
 ---
 
 <div class="home">
-    {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-    {%- endif -%}
-
     <div class="intro">
         <p>
             Bienvenue sur le blog de D2velop, ici, je souhaite vous partager mon
@@ -33,26 +31,22 @@ layout: default
     </div>
 
     {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Les derniers articles" }}</h2>
-    <ul class="post-list">
-        {%- assign home_posts = site.posts | slice: 0, 4 -%}
-        {%- for post in home_posts -%}
-        <li class="post-card">
-            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-            <span class="post-meta">{{ post.date | date: date_format }}</span>
-            <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                    {{ post.title | escape }}
+    <div class="post-block">
+        <h2 class="post-list-heading">{{ page.list_title }}</h2>
+        <ul class="post-list">
+            {%- assign home_posts = site.posts | slice: 0, 4 -%}
+            {%- for post in home_posts -%}
+                <a class="post-card" href="{{ post.url | relative_url }}">
+                    <span class="post-meta">{{ post.date | date: site.date_format }}</span>
+                    <h3 class='title'>{{ post.title | escape }}</h3>
+                    {%- if site.show_excerpts -%}
+                    {{ post.excerpt }}
+                    {%- endif -%}
                 </a>
-            </h3>
-            {%- if site.show_excerpts -%}
-            {{ post.excerpt }}
-            {%- endif -%}
-        </li>
-        {%- endfor -%}
-    </ul>
+            {%- endfor -%}
+        </ul>
+    </div>
 
-    <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p>
     {%- endif -%}
 
 </div>
