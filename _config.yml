@@ -32,6 +32,7 @@ linkedin_username: cegerard
 twitter_username: eriatand
 rss: RSS
 date_format: "%d/%m/%Y"
+base_site_url: "https://d2velop.fr/"
 
 # Build settings
 theme: minima
