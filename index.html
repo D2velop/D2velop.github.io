@@ -36,13 +36,13 @@ list_title: Les derniers articles
         <ul class="post-list">
             {%- assign home_posts = site.posts | slice: 0, 4 -%}
             {%- for post in home_posts -%}
-                <a class="post-card" href="{{ post.url | relative_url }}">
-                    <span class="post-meta">{{ post.date | date: site.date_format }}</span>
-                    <h3 class='title'>{{ post.title | escape }}</h3>
-                    {%- if site.show_excerpts -%}
-                    {{ post.excerpt }}
-                    {%- endif -%}
-                </a>
+            <a class="post-card" href="{{ post.url | relative_url }}">
+                <span class="post-meta">{{ post.date | date: site.date_format }}</span>
+                <h3 class='title'>{{ post.title | escape }}</h3>
+                {%- if site.show_excerpts -%}
+                {{ post.excerpt }}
+                {%- endif -%}
+            </a>
             {%- endfor -%}
         </ul>
     </div>

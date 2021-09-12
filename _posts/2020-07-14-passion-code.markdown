@@ -3,6 +3,7 @@ layout: post
 title:  "La passion du code est-elle obligatoire pour devenir développeur ?"
 date:   2020-07-14 20:00:00 +0200
 categories: dev mindset
+author: Cédric Gérard
 ---
 
 Le développement est-il un domaine réservé aux passionnés ? C’est une question qui revient régulièrement et du coup je souhaitais apporter un éclairage sur le sujet.

@@ -46,6 +46,7 @@
   min-width: 250px;
   border: 3px dotted $brand-color-2;
   border-radius: 10% 25%;
+  margin-bottom: 20px;
 
   &:hover {
     border: 3px solid $brand-color-2;
@@ -76,6 +77,19 @@
   }
 }
 
+.post_img {
+  margin: 0 auto;
+  display: block;
+}
+
+.post_img_lg {  
+  width: 600px;
+}
+
+.post_img_sm {  
+  max-width: 250px;
+}
+
 .rss-subscribe {
   text-align: right;
 }
@@ -83,7 +97,7 @@
 /**
  * Links
  */
- a {
+a {
   color: $brand-color;
   text-decoration: none;
 
@@ -103,4 +117,19 @@
       text-decoration: underline;
     }
   }
+}
+
+.e-content {
+
+  h2 {
+    color: $brand-color;
+  }
+
+  img + em { 
+    display: block;
+    font-size: $small-font-size;
+    color: $grey-color;
+    text-align: center;
+  } 
+
 }
