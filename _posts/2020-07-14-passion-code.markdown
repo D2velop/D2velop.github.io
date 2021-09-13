@@ -5,6 +5,7 @@ date:   2020-07-14 20:00:00 +0200
 categories: dev mindset
 author: Cédric Gérard
 image: https://cdn.pixabay.com/photo/2015/01/08/18/24/children-593313_1280.jpg
+tags: dev mindset 
 ---
 
 Le développement est-il un domaine réservé aux passionnés ? C’est une question qui revient régulièrement et du coup je souhaitais apporter un éclairage sur le sujet.
