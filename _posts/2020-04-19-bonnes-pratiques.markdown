@@ -4,6 +4,7 @@ title:  "Bonne pratique"
 date:   2020-04-19 20:00:00 +0200
 categories: dev pratique
 author: Cédric Gérard
+image: https://cdn.pixabay.com/photo/2015/06/24/15/45/computer-820281_1280.jpg
 ---
 
 Avant de commencer à parler de bonnes pratiques, je voulais vous poser quelques questions. Vous êtes-vous déjà demandé, en tant que développeur, si votre code était bon ? Je veux dire par là, est-ce que vous êtes satisfait du code que vous produisez ?
