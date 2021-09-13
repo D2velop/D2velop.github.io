@@ -40,6 +40,27 @@
   margin-top: 10px;
 }
 
+.post-item {
+  display: flex;
+  margin-bottom: 15px;
+  padding: 0px 10px;
+
+  @include media-query($on-palm) {
+    flex-direction: column-reverse;
+  }
+}
+
+.post-image {
+  margin-right: 10px;
+  border-radius: 5px;
+  min-width: 200px;
+  height: 200px;
+
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .post-card {
   padding: 0 0 1rem 2rem;
   width: 40%;
@@ -106,7 +127,6 @@ a {
   }
 
   &:hover {
-    color: $text-color;
     text-decoration: underline;
   }
 

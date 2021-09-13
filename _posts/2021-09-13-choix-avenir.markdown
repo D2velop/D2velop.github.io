@@ -4,6 +4,7 @@ title:  Choix d'avenir
 date:   2020-09-13 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
+image: https://cdn.pixabay.com/photo/2016/10/24/23/11/doors-1767562__480.jpg
 ---
 
 Nous sommes en 2003, l’année de mon Bac. Cela fait maintenant des mois que je me pose des questions sur mon avenir. Comme tous les étudiants, il faut maintenant trancher sur ce que sera mon quotidien à la rentrée prochaine. C’est certainement une question que se pose tout étudiant un jour ou l'autre. La dernière année de lycée étant celle où il faut y apporter une réponse définitive.

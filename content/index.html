@@ -6,7 +6,9 @@ title: Articles
 {%- if site.posts.size > 0 -%}
 <ul class="post-list">
     {%- for post in paginator.posts -%}
-    <li>
+    <li class='post-item'>
+      <div class="post-image" style="background-image: url('{{ post.image }}');"></div>
+      <div>
         <span class="post-meta">{{ post.date | date: site.date_format }}</span>
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
@@ -16,7 +18,8 @@ title: Articles
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
-      </li>
+      </div>
+    </li>
     {%- endfor -%}
 </ul>
 
