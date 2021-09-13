@@ -153,3 +153,26 @@ a {
   } 
 
 }
+
+.content-header {
+  display: flex;
+  flex-direction: row;
+}
+
+.badge {
+  border-radius: 4px;
+  background-color: lighten($grey-color, 18%);
+  color: white;
+  padding: 0px 4px;
+  font-weight: 600;
+}
+
+.tag-list {
+  flex-grow: 2;
+  display: flex;
+  justify-content: flex-end;
+
+  > span {
+    margin-left: 5px;
+  }
+}
