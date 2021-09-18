@@ -26,7 +26,7 @@ Malgré mon attirance pour ce domaine. Le manque de confiance en mes aptitudes m
 
 ## La motivation
  
-Nous sommes maintenant en 2006. Et je décide de retourner à la FAC pour reprendre des études et me reprendre en mains. Je pars pour Grenoble tout en conservant un emploi à 80 Km de là, le soir et le week-end en tant que téléopérateur, pour financer mes études. J’entre donc dans une licence à double compétence Biologie-Informatique afin de concilier mes centres d’intérêt. Cela me permettait aussi de capitaliser sur les connaissances acquises lors de mes deux précédentes années de FAC.
+Nous sommes maintenant en 2006. Et je décide de retourner à la FAC pour reprendre des études et me reprendre en mains. Je pars pour Grenoble tout en conservant un emploi à 80 Km de là, le soir et le week-end en tant que téléopérateur, pour financer mes études. J’entre donc dans une licence à double compétence Biologie-Informatique afin de concilier mes centres d’intérêts. Cela me permettait aussi de capitaliser sur les connaissances acquises lors de mes deux précédentes années de FAC.
 
 Je pars donc à Grenoble plein d’enthousiasme et sans logement avec l’idée de réussir mes études cette fois-ci.
 
