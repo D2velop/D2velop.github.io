@@ -19,11 +19,11 @@ Au final, je décide de postuler dans un IUT à Grenoble. Je trouve la formation
 
 Tout content de ma trouvaille, je postule. J’attends quelques semaines (j’ai l’impression que ça a duré 10 ans.) pour avoir une réponse. Et là, la loose… Je suis placé sur liste d’attente. En effet, mon parcours n’étant pas classique, je n’entre pas dans les cases. C'est ce qui m'a compliqué la vie pour remplir le dossier d’inscription.
 
-![triste](https://media.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif?cid=ecf05e47vj6do9ugekcl8ch4vnm19fykm28i9mv75nr1ryn4&rid=giphy.gif&ct=g){: .post_img .post_img_sm} *La redéscente fait un peu mal*
+![triste](https://media.giphy.com/media/7SF5scGB2AFrgsXP63/giphy.gif?cid=ecf05e47vj6do9ugekcl8ch4vnm19fykm28i9mv75nr1ryn4&rid=giphy.gif&ct=g){: .post_img .post_img_md} *La redéscente fait un peu mal*
 
 On approche tranquillement de septembre et je ne sais pas du tout ce que je vais faire l’année prochaine. Autant, j’avais la patate en postulant à l’IUT, autant là, je commence à me dire que je suis une cause perdue. Avant de lorgner du côté de pôle emploi, je reprends contact avec un organisme de formation à distance. Après mon expérience à la banque de Savoie, je me suis découvert à intérêt pour les chiffres, ou les thunes, je n'étais pas trop sûr. Me voilà donc postulant pour une formation de BTS banque à distance. Plus aucun rapport avec l’info, mais je me disais que c’était mort de toute façon.
 
-![billets](https://media.giphy.com/media/W9ncJSZLi36PC/giphy.gif?cid=ecf05e47wv1fgqj166psig9vh39jg9fzz63z56vhj1ukp364&rid=giphy.gif&ct=g){: .post_img .post_img_sm} *Oui je sais... mais à un moment il faut bien manger*
+![billets](https://media.giphy.com/media/W9ncJSZLi36PC/giphy.gif?cid=ecf05e47wv1fgqj166psig9vh39jg9fzz63z56vhj1ukp364&rid=giphy.gif&ct=g){: .post_img .post_img_md} *Oui je sais... mais à un moment il faut bien manger*
 
 
 ## Le choix
@@ -32,7 +32,7 @@ Suite à quelques entretiens, je suis donc accepté pour suivre un BTS banque à
 
 Et comme elle a toujours raison (cette phrase est sponsorisée.), je finis par être recontacté par l’IUT qui me propose d’intégrer la promo de la rentrée prochaine (septembre 2007). Et là, c’est le dilemme. Est-ce que je repars dans des études classiques (la formation à l’IUT est en présentiel avec un rythme imposé.), ce qui m’avait déplu à la FAC, mais dans un domaine qui m’intéresse ? Ou bien, je prends la formation à distance (formule que j’apprécie particulièrement) mais dans un domaine qui ne m’intéresse pas plus que ça?
 
-![matrix choix](/assets/posts/iut/choice-matrix.jpg){: .post_img .post_img_sm} *Je pense que c'était plus facile pour Néo*
+![matrix choix](/assets/posts/iut/choice-matrix.jpg){: .post_img .post_img_md} *Je pense que c'était plus facile pour Néo*
 
 Il m'a fallu un peu de temps et quelques coups de pieds au cul (celle-là n’est pas sponsorisée, je m’en souviens encore.) pour me décider à persévérer dans l’informatique.
 
@@ -42,13 +42,13 @@ Clairement, je ne regrette pas ce choix. L’IUT2 de Grenoble est certainement m
 
 Enfin, je retrouvais des profs super compétents, tant du point de vue technique que pédagogique. Mais également un programme super bien foutu. L’enchaînement avait un sens et on pouvait sentir sa progression au fur et à mesure que les modules défilaient. Vous pratiquiez de l’aglo avec un pseudo-langage et en même temps les bases du langage C et Ada. Et paf ! Quand vous passiez au niveau supérieur pour les langages, vous pouviez compter sur vos nouvelles compétences d’algo pour vous faire avancer. Tout était super bien imbriqué, jusqu’au cours de communication, rédaction et de langues.
 
-![salle de classe](/assets/posts/iut/iut2_classroom.jpg){: .post_img .post_img_sm} *Elle me rappelle des souvenirs cette photo*
+![salle de classe](/assets/posts/iut/iut2_classroom.jpg){: .post_img .post_img_md} *Elle me rappelle des souvenirs cette photo*
 
 Franchement, en deux ans là-bas, je pense avoir appris les connaissances de base pour devenir développeur. Et surtout beaucoup pratiqué au travers de tout un tas de projets et de mes deux stages.
 
 J’ai acquis des compétences en algorithmie, programmation back, front, web, client lourd, base de données, modélisation UML, génie logiciel, architecture logicielle et réseau. J’ai appris à programmer avec des langages procéduraux, prototypés, objets et fonctionnels. J’ai découvert les langages, C et C++, Ada, Java, Ocaml, et Javascript. Tout ça sans être exhaustif.
 
-![néo appentissage](https://media.giphy.com/media/3WvhJ783Le5ieNEZ8z/giphy.gif?cid=ecf05e47xnv6jzcmcfb7ksudmbrx9xfygaonq9l3m8e7basu&rid=giphy.gif&ct=g){: .post_img .post_img_sm} *C'est pas aller aussi vite quand même*
+![néo appentissage](https://media.giphy.com/media/3WvhJ783Le5ieNEZ8z/giphy.gif?cid=ecf05e47xnv6jzcmcfb7ksudmbrx9xfygaonq9l3m8e7basu&rid=giphy.gif&ct=g){: .post_img .post_img_md} *C'est pas aller aussi vite quand même*
 
 Vous remarquerez que je ne cite aucun framework ici. En effet, nous n’avons été formés sur aucun framework. On a appris à maîtriser les langages et non les outils construit au-dessus. Je trouve, aujourd’hui encore, que c’est une très bonne stratégie. En maîtrisant les bases (développement et langages), il n’y a aucune difficulté à appréhender un framework.
 
@@ -58,6 +58,6 @@ Cela a été deux années très riches et qui sont passées à la vitesse de l�
 
 Le marché de l’emploi n’était pas ce qu’il est aujourd’hui et je me demandais si faire encore quelques efforts ne serait pas récompensés plus tard.
 
-![hésitation](https://media.giphy.com/media/JUFt5VlqVLDnkCM5zV/giphy-downsized-large.gif?cid=ecf05e47lnrmlhegsltczfhtoryjy9szdpq30u8zr8a4jphm&rid=giphy-downsized-large.gif&ct=g){: .post_img .post_img_sm} *Encore un petit dilemme*
+![hésitation](https://media.giphy.com/media/JUFt5VlqVLDnkCM5zV/giphy-downsized-large.gif?cid=ecf05e47lnrmlhegsltczfhtoryjy9szdpq30u8zr8a4jphm&rid=giphy-downsized-large.gif&ct=g){: .post_img .post_img_md} *Encore un petit dilemme*
 
 Me voici donc reparti dans la recherche de formations/études disponibles pour les Bac+2. Je vous raconte ça la semaine prochaine.
