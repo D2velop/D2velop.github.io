@@ -65,4 +65,4 @@ show_excerpts: true
 paginate: 4
 paginate_path: "/content/page_:num/"
 
-googgoogle_analytics: G-6KSZTFSFFW
+google_analytics: G-6KSZTFSFFW
