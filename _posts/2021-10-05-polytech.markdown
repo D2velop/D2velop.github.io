@@ -1,0 +1,84 @@
+---
+layout: post
+title:  Polytech
+date:   2020-10-05 09:00:00 +0200
+categories: dev-life
+author: Cédric Gérard
+image: /assets/posts/polytech/polytech_logo.jpg
+tags: dev chronique
+---
+
+Durant mon dernier stage d’IUT, celui qui doit valider le diplôme, je me pose plein de questions concernant la suite de mes études. Et même, je m’interroge tout simplement sur le fait de continuer.
+Mes stages m’ont donné envie de travailler et je ne suis pas très motivé par reprendre un rythme scolaire.
+
+À l’IUT, il y a une porte ouverte concernant les licences Pro. La plupart se font en alternance et il ne s’agit que d’ajouter un an de formation. L’intérêt est d’obtenir une licence (BAC+3) plutôt qu’un DUT (BAC+2). L’alternance aussi est intéressante, car elle assure plus facilement son entrée sur le marché du travail.
+
+Je vais donc à la rencontre des enseignants qui occupent le stand de la licence Pro avec option sécurité informatique. Je les ai côtoyés pendant deux ans et je me dis qu’ils seront sûrement de bons conseils.
+
+Ils ont, en effet, été de bons conseils, mais pas comme je m’y attendais. En gros, ils m’ont fait comprendre que je ne serai pas accepté en licence pro. 
+
+![sur le cul](https://media.giphy.com/media/doJrCO8kCAgNy/giphy.gif){: .post_img .post_img_md} *J'avoue que j'étais sur le cul*
+
+Et ce, parce que mon dossier de poursuite d’étude était trop bon !
+
+![what!?](https://media.giphy.com/media/pPhyAv5t9V8djyRFJH/giphy.gif){: .post_img .post_img_md} *Mais what!?*
+
+Comme je m’étais épanouie à l’IUT, j’avais vraiment bossé, et c’est vrai que je m’en sortais bien. J’étais parmi les meilleurs de la promo. Mais comble de l’ironie, cela m’empêchait de continuer en licence.
+
+## Les avis de poursuite d’étude
+
+En fait, en fin de formation, il y a un truc particulier qu’on appelle les avis de poursuite d’étude. Il s’avère que votre école vous donne un avis qui correspond à une recommandation à poursuivre vos études à un niveau plus élevé. Les IUT sont aussi classés au niveau national et suivant l’avis de votre école et son classement vous recevez un grade. Ce grade vous ouvre les portes de différents groupes d’écoles. Plus votre grade est élevé et plus vous pouvez postuler dans des formations réputées.
+
+Rien ne vous empêche de le faire même sans avis. Cependant, il n'y a pratiquement aucune chance pour qu’on vous réponde si vous n’avez pas un avis favorable pour le groupe de la formation à laquelle vous prétendez.
+
+Du coup, j’ai fini par comprendre ce qui a motivé le refus de la licence Pro.
+
+![malin](https://media.giphy.com/media/aLyitXm0xd52iYuLvA/giphy.gif){: .post_img .post_img_md} *On ne me la fait pas*
+
+He oui, j’avais un avis de poursuite d’étude me permettant de postuler en école d’ingénieur. Les places étant limitées pour les licences Pro, l’IUT préféra avantager les étudiants qui avaient moins de choix pour continuer. Avant de me laisser partir, ils m’ont conseillé de continuer vers un BAC+5. Je n’étais pas vraiment motivé à l’idée de me refaire trois ans d’études. Je me disais que ça allait me faire entrer tard sur le marché du travail par rapport à d’autres jeunes diplômés.
+
+## L’école
+
+À l’époque, ma copine, qui avait continué la FAC, était entrée dans une école d’ingénieur qui semblait plutôt sympa. Elle offrait une formation qui m’intéressait beaucoup, RICM (réseau informatique et communication multimédia) qui permettait d’acquérir pas mal de connaissances en informatique. Et je n'étais toujours pas motivé pour faire un Master à la FAC.
+
+À ce moment là, j’hésitais donc entre Polytech Grenoble avec la spécialité RICM et l’ENSIMAG. J’ai échangé avec mes encadrants de stage qui m’avaient embauché en Job d’été. Ils étaient enseignants à l’ENSIMAG. Ils ne m’ont pas spécialement recommandé la formation du fait que je n’étais pas particulièrement fan des maths. Entre temps, j’avais pris contact avec le responsable de la formation RICM. Il faut avouer qu’il m’a super bien vendu la formation. Il m'a finalement convaincu de m’inscrire. Après un dossier à remplir et un entretien me voilà accepté pour entrer en école d’ingénieur.
+
+## RICM
+
+Septembre 2009.
+
+La rentrée se passe plutôt bien. Je suis quand même un peu stressé. Les formations d’ingénieur accueillent principalement des étudiants qui sortent de classes préparatoires. Soit des classes préparatoires intégrées à l’école, soit des prépas classiques. J’avais clairement peur de ne pas être au niveau. Surtout concernant les matières transversales (ce qu’on appelle là-bas, le tronc commun).
+
+Le premier semestre est consacré à la remise à niveau. Les étudiants qui viennent de classe préparatoire suivent une formation accélérée en informatique. Ceux qui viennent de la FAC ou d’un IUT suivent une remise à niveau en maths !
+
+![peur](https://media.giphy.com/media/BqHng2hpjOUdW/giphy.gif){: .post_img .post_img_md} *J'aurai préféré les vélociraptors*
+
+Je ne vous cache pas que ça a été les 6 mois les plus longs de toute ma vie. Je ne suis pas certain, à la sortie, que mon niveau ait bien évolué. 
+
+Pour la suite, je ne vais pas entrer dans les détails. La formation contient un tronc commun jusqu’à l’avant-dernier semestre. Celui-ci comprend, les maths 😭, l’analyse des signaux numériques, la gestion d’entreprise, la compta, l’anglais, la communication, l’atelier CV et la préparation aux entretiens d’embauche. Le reste dépend de la spécialité choisie.
+
+En RICM, j’ai mangé de l’informatique. Côté dev je n’ai pas forcément appris grand-chose de plus. L’IUT m’avait bien préparé. En revanche, j’ai pratiqué comme jamais. Je ne sais plus combien de projets j’ai réalisé, mais c’est assez énorme. Je me souviens d'avoir passé mes soirées et week-ends à bosser sur mes projets, seul ou en équipe. J’ai néanmoins beaucoup appris dans d’autres domaines, comme le réseau, les systèmes d’exploitation, le génie logiciel, l’algorithmie et la gestion de la complexité. J’ai également eu à travailler sur des projets en équipe avec des entreprises partenaires, ce fut ultra formateur.
+
+Durant la formation, j’ai eu à effectuer deux stages obligatoires. En deuxième et en dernière année, ces stages sont autant d’expérience accumulé pour appliquer ce qu’on apprend et découvrir le monde de l’entreprise.
+
+J’ai effectué mon stage de fin d’étude au sein du LIG (laboratoire d’informatique de Grenoble) dans une équipe dédiée à l’étude de l’interaction Homme-machine. J’ai encore appris énormément là-bas, en travaillant aux bases de ce qui allait devenir un projet de recherche européen.
+
+## Le Bilan
+
+Je ne regrette pas du tout d’avoir choisi Polytech Grenoble. Cette école m’a permis d’obtenir un diplôme reconnu et de pouvoir lancer sereinement ma carrière dans l’informatique. Même si j’étais vraiment content d’en finir. J’avais atteint mes limites dans ce que je pouvais supporter d’un système qui reste, quand même, très scolaire.
+
+Ces trois années n’ont pas été aussi épanouissantes que les deux ans d’IUT. Les attentes étaient beaucoup plus relevées. Par exemple, il ne suffit pas d’avoir 10 de moyenne pour valider son semestre. Il faut en réalité un minimum de 12/20. On est obligé de valider tous ses modules, il n’y a pas de compensation possible. Par exemple, je ne pouvais pas compenser mon niveau faible en maths par un module d’info. Il fallait obligatoirement que j’aie une moyenne de 10 dans le module de maths. Je peux vous dire que j’ai beaucoup donné, même si ça ne m’a pas empêché d’aller au rattrapage à chaque fois.
+
+Je suis ressorti épuisé, les nuits et week-end à travailler m’ont coûté beaucoup d’énergie. Le soulagement ressenti à la fin de la formation était incroyable. J’avais le sentiment d’avoir accompli quelque chose, de m’être dépassé.
+
+Je me rappelle encore la cérémonie de remise des diplômes. Un truc à l’américaine avec les chapeaux 👨‍🎓, la famille qui est invité, c’était ouf. Et la soirée ensuite 🎆
+
+![diplômé](https://media.giphy.com/media/dxCSx7uOPQjVtpw4P5/giphy.gif){: .post_img .post_img_md} *J'ai vraiment fait ça 😁*
+
+## Une autre vie
+
+J’ai été embauché à la suite de mon stage de fin d’étude pour continuer à bosser sur mon projet de stage. Certes, j’ai été pris en CDD (durée de 3 ans quand même) mais avec un salaire de 36K€. À l’époque, c’était clairement un salaire dans la fourchette haute, en province, pour un nouveau diplômé.
+
+![fier](https://media.giphy.com/media/PudZiAbQDUEik/giphy.gif){: .post_img .post_img_md} *J'étais vraiment fier du chemin parcouru*
+
+Je vous raconte mon entrée dans le monde des devs professionnels en tant que junior la semaine prochaine.
