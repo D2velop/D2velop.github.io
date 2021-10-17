@@ -4,7 +4,7 @@ title:  INRIA
 date:   2020-10-12 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
-image: /assets/posts/inria/inria_logo.png
+image: /assets/posts/inria/INRIA_logo.png
 tag%s: dev chronique
 ---
 
