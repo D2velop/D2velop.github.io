@@ -1,0 +1,100 @@
+---
+layout: post
+title:  Startup
+date:   2020-10-26 09:00:00 +0200
+categories: dev-life
+author: Cédric Gérard
+image: /assets/posts/startup/Logo_v2.png
+tag%s: dev chronique
+---
+
+Créer sa propre entreprise. Clairement, c’est une idée qui peut faire rêver. On n’est plus obligé de subir la politique de quelqu’un d’autre et on travaille pour soit même. La réalité peut être tout autre quand on veut monter une startup. Surtout si on dépend d’autres structures pour lancer son projet.
+
+C’est un fait qu’on a appris à nos dépens, ma femme et moi. Je remonte en 2015, ma femme a obtenu son doctorat (🤗) et nous avions envie de monter un projet suite à ses résultats de recherches.
+
+## La suite de la thèse
+
+Si vous avez lu mon [article précédent](https://blog.d2velop.fr/dev-life/2020/10/19/floralis.html), vous avez sans doute noté l’aspect politique qu’il y a dans le monde de la recherche. Et bien dans le cas de notre projet, on tombe en plein dedans. Ma femme n’a pas obtenu la possibilité de continuer à travailler sur son concept puisqu’elle n’a pas eu de post-doc. La raison réelle est que sa directrice de thèse lui a mis des bâtons dans la roue. Pourquoi ? Et bien, on ne saura jamais officiellement, toujours étant que sans se soutiens, adieu la recherche.
+
+![sad gizmo](https://media.giphy.com/media/2Uca0AoGcqcJW/giphy.gif){: .post_img .post_img_md} *Le choc*
+
+Donc on part dans l’idée de faire sans le laboratoire. Mais c’est beaucoup plus compliqué. Déjà, parce que l’usufruit de ce qui émane d’une thèse appartient à l’université. Et parce que vouloir convaincre des organismes de nous suivre si l’université n’est pas avec nous, c’est peine perdue.
+
+La première étape de notre projet a été donc de dériver un concept à partir de ces connaissances dans un contexte différent. Sa thèse était orientée santé et là nous allions nos intéressées à la problématique de l’habitat intelligent.
+
+Vous voyez le lien qui apparaissait clairement entre nos domaines d’expertises respectifs ? Ce n’était pas un hasard, mais clairement un moyen de capitaliser sur nos expériences à chacun. De plus, il y avait (même encore aujourd’hui) de belles opportunités concernant ce marché.
+
+![malin](https://media.giphy.com/media/4Z79LtjvDXu9Wnn7m9/giphy.gif){: .post_img .post_img_md} *Si c'est pas malin ça*
+
+## Le concept
+
+Nous avions un concept visant à développer une application permettant d’abstraire le monde physique. Avec l’aide de représentations numériques, nous voulions faciliter l’interaction de l’utilisateur avec sa maison dans différents contextes d’usage.
+
+Pour cela, nous nous étions basés sur la métaphore du majordome. Nous voulions que les utilisateurs interagissent avec leurs habitats comme s’il s’agissait d’un membre de la famille. Cet anthropomorphisme visait à abstraire l’aspect technologique pour se concentrer sur l’usage.
+
+![Majordome](https://media.giphy.com/media/7NIORUaIehKwDXgvt3/giphy.gif){: .post_img .post_img_md} *Plus avenant que celui-là quand même*
+
+Par exemple, un personnage, le majordome représentait la maison on pouvait échanger avec lui par mail, sms et en chat dans l’application. On pouvait l’inviter à des événements dans son agenda pour produire des comportements à des moments désirés.
+
+## Gilyhome
+
+Avec ce concept, nous pensions pouvoir monter quelque chose en exploitant les idées qui avaient émergé pendant la thèse de ma femme. Nous avons somme donc lancée dans le projet de créer cette application. Nous l’avions appelé Gilyhome (GIve Life to Your HOME).
+
+Pour créer le personnage qui serait l’emblème de notre produit, ma femme, s'est inspirée du personnage de M. ADN de Jurrasic park. Nous avions étudié la concurrence, chaque box domotique et surtout les interfaces disponibles. Nous avions conçu quelques choses radicalement différentes à l’époque. Moins piloté par la technologie et beaucoup plus orienté usage. Quand je vois le succès des assistants et des chat bot aujourd’hui, je me dis qu’on tenait vraiment quelque chose.
+
+![Mr ADN](https://media.giphy.com/media/dIUVH2duirBJPJgwZ3/giphy.gif){: .post_img .post_img_md} *Quand on voit le logo on sens l'inspiration*
+
+Nous étions rentrés dans un incubateur, Linksium. Il s’agit de la SATT de Grenoble. Ils devaient nous accompagner sur la création de l’entreprise, le business modèle et pour trouver les bons partenaires pour mettre en place notre projet.
+
+À l’époque, j’avais également sollicité mon réseau d’entrepreneurs pour trouver quelqu’un avec des compétences business pour nous épauler. Nous avions les compétences techniques, nous avions la vision, mais pour tout ce qui touche au monde des affaires et de la vente, c’était plus compliqué.
+
+Nous avions reçu chez nous une personne qui souhaitait cofonder une startup justement dans le domaine de la domotique. Il bossait pour Electronic arts au US et était de passage en France. Nous avions l’impression que tout se mettait en place et avions bon espoir de pouvoir nous lancer.
+
+## L’identité
+
+C’est à ce moment-là que tout se complique. Premièrement, en rentrant dans un incubateur, sans nous en rendre compte, on est rentré dans une machine. Une machine bien huilée qui traite tous les projets un peu de la même manière. Leur vision, c’est de faire des startup taillées pour lever des fonds et grossir très rapidement. 
+
+On sait pourquoi quand on comprend leur propre business modèle. Ces structures vivent grâce aux réussites des startup qu’elles accompagnent. Et il faut dire que la réussite d’un projet n’est pas liée qu’à ce dernier. Il faut les bonnes personnes et aussi le bon moment. On peut le dire, il y a aussi un peu chance pour que ça marche.
+
+Comme ce n’est pas évident à contrôler, leur stratégie, c’est de miser sur la quantité. En lançant beaucoup de projets, on augmente les chances d’avoir des projets qui réussissent. On parle souvent des chiffres comme une réussite pour cinq échecs ou 30% seulement passe les 5 ans, etc. C’est, en effet, assez vrai et ces statistiques poussent les incubateurs à minimiser les coûts au début pour éliminer les projets auxquels ils ne croient pas rapidement et surtout les équipes qui ne convainquent pas.
+
+![Kho-lanta](https://media.giphy.com/media/1yiPJLiqhL6pwzfIEO/giphy.gif){: .post_img .post_img_md} *On se sent un peu comme ça*
+
+Ce processus ne nous convenait pas. On avait l’impression de perdre notre projet et de le voir dénaturer. Il fallait viser un maximum de croissance, avoir la vision à 5 ans, etc. Ici, on parlait de viser un chiffre d’affaires particulier, d’embaucher des gens et tout le toutime. La vision de la SATT et du business dev qu’on avait rencontré, c’était la vision d’une boite énorme avec des centaines d’employés et un CA monstrueux.
+
+C’était assez loin de notre vision. Nous, on voulait quelque chose à taille humaine focaliser sur une solution qui répond à un problème. Eux, ne voyaient que les opportunités de marché et la croissance à tout prix. Ma femme passait son temps à discuter business, gestion, concours pour lever des fonds et paradoxalement, on ne faisait rien sur le projet.
+
+En fait, on fini par comprendre que le projet, ils s’en fichaient complétement. Enfin la partie technique. Ce qu’ils voulaient, c’était des gens pour attaquer ce segment de marché avec une idée suffisamment bien défendu pour amener de l’argent.
+
+Une fois qu’on aurait eu de l’argent, on aurait embauché des devs ou payer des prestats pour réaliser la première version. Biens sur tout ça « en mode startup », ce qui signifiait, à l’arrache en travaillant comme des dingues dans l’espoir que ça marche à la fin.
+
+![dev-startup](https://media.giphy.com/media/Sk3KytuxDQJQ4/giphy.gif){: .post_img .post_img_md} *C'est certainement ça un dev en startup pour eux*
+
+Autre problème qui est survenu au même moment, le spectre de l’université. La SATT craignait les problématiques juridiques avec l’université. Donc elle voulait inclure les encadrants de thèse de ma femme, au moins en consultant afin d’éviter tout problème par la suite. Cela signifiait de collaborer avec la personne qui avait délibérément pourri les projets de ma femme dans la recherche.
+
+## L’abandon
+
+On prend conscience à ce moment là qu’on ne contrôle rien du tout et qu’on est pris dans un engrenage. Le projet ne serait clairement pas celui qu’on voulait et l’entreprise ne serait pas créée avec les valeurs qui étaient les nôtres. On aurait été coincé entre les obligations juridiques avec l’université, la dilution du capitale avec la SATT et les éventuels investisseurs et les dettes liées aux banques qu’on serait les seuls à assumer que le projet réussisse ou non.
+
+Devant tous ces constats et les risques qui nous paraissaient trop grands. Devant le manque de soutien et face à l’impression de devoir lutter en permanence pour ne pas devenir de simples exécutants de notre propre projet. Nous avons décidé d’arrêter.
+
+![echec](https://media.giphy.com/media/xTiTnLbo0KIJ8hrNjG/giphy.gif){: .post_img .post_img_md} *Ca nous a mis une bonne claque quand même*
+
+Nous nous sommes éloignés de ce monde de fous pour nous retrouver et le projet a été mis de côté.
+
+## Les leçons
+
+C’est une expérience intéressante qui nous fait découvrir l’envers du décor. Aujourd’hui, je vois ce qu’il faut faire et surtout les sacrifices que peut demander de se lancer dans l’entreprenariat.
+
+Avant de monter une boite, il faut savoir pourquoi on la monte. Si c’est pour être libre alors il faut avoir le moyen de le faire de la façon la plus autonome possible. Chaque prêt, investissement, soutien, dilue votre liberté d’action et votre projet ne vous appartient plus en totalité.
+
+Si votre ambition, c’est de faire une boite que vous vendrez plus-tard avec une superbe plus-value (c’est le cas de la majorité des gens qui fondent des startup), alors il faut être prêt à jouer le jeu et ne pas vraiment s’attacher au projet lui-même.
+
+Nous n’avions pas les moyens pour être autonome et nous n’étions pas assez avancé techniquement sur le projet pour garder le contrôle. Nous voulions être libres et nous n’avions pas l’intention de monter une boite pour la vendre quelques années plus tard. Il paraît évident, avec le recul, que nous n’étions pas prêts et pas au bon endroit pour le devenir.
+
+Suite à ça, j’ai décidé de quitter le poste que j’occupais et qui ne me convenait plus. C’est comme cela que j’ai découverts les joies de la SSII. Mais ça sera le sujet d’un prochain article.
+
+
+## Liens
+
+[La thèse de ma femme](http://iihm.imag.fr/publs/2014/MARTINS-BALTAR_2014_archivage.pdf)
