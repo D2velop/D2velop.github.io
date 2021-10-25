@@ -10,7 +10,7 @@ tag%s: dev chronique
 
 Créer sa propre entreprise. Clairement, c’est une idée qui peut faire rêver. On n’est plus obligé de subir la politique de quelqu’un d’autre et on travaille pour soit même. La réalité peut être tout autre quand on veut monter une startup. Surtout si on dépend d’autres structures pour lancer son projet.
 
-C’est un fait qu’on a appris à nos dépens, ma femme et moi. Je remonte en 2015, ma femme a obtenu son doctorat (🤗) et nous avions envie de monter un projet suite à ses résultats de recherches.
+C’est un fait qu’on a appris à nos dépens, ma femme et moi. Je remonte en 2015, ma femme a obtenu son doctorat 🤗 et nous avions envie de monter un projet suite à ses résultats de recherches.
 
 ## La suite de la thèse
 
@@ -42,7 +42,7 @@ Avec ce concept, nous pensions pouvoir monter quelque chose en exploitant les id
 
 Pour créer le personnage qui serait l’emblème de notre produit, ma femme, s'est inspirée du personnage de M. ADN de Jurrasic park. Nous avions étudié la concurrence, chaque box domotique et surtout les interfaces disponibles. Nous avions conçu quelques choses radicalement différentes à l’époque. Moins piloté par la technologie et beaucoup plus orienté usage. Quand je vois le succès des assistants et des chat bot aujourd’hui, je me dis qu’on tenait vraiment quelque chose.
 
-![Mr ADN](https://media.giphy.com/media/dIUVH2duirBJPJgwZ3/giphy.gif){: .post_img .post_img_md} *Quand on voit le logo on sens l'inspiration*
+![Mr ADN](https://media.giphy.com/media/dIUVH2duirBJPJgwZ3/giphy.gif){: .post_img .post_img_md} *Quand on voit le logo on sent l'inspiration*
 
 Nous étions rentrés dans un incubateur, Linksium. Il s’agit de la SATT de Grenoble. Ils devaient nous accompagner sur la création de l’entreprise, le business modèle et pour trouver les bons partenaires pour mettre en place notre projet.
 
