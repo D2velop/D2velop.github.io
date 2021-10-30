@@ -5,7 +5,7 @@ date:   2020-10-26 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: /assets/posts/startup/Logo_v2.png
-tag%s: dev chronique
+tags: dev chronique
 ---
 
 Créer sa propre entreprise. Clairement, c’est une idée qui peut faire rêver. On n’est plus obligé de subir la politique de quelqu’un d’autre et on travaille pour soit même. La réalité peut être tout autre quand on veut monter une startup. Surtout si on dépend d’autres structures pour lancer son projet.
