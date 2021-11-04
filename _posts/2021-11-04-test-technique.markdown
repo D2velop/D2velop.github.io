@@ -34,7 +34,7 @@ Dans ces conditions, je suis généralement extrêmement mauvais en live coding 
 
 Lorsque je dois faire passer un entretien technique, je ne suis pas à l’aise de mettre quelqu’un dans une situation que moi-même, je n’apprécie pas. Et j’ai donc bien réfléchi à comment je voudrais que ça se passe pour moi.
 
-Premièrement, je demande à la personne si elle préfère prendre le temps de réaliser le test tranquillement chez elle ou plutôt en live avec moi. Bien évident, ce n’est pas du tout le même exercice. Le test à la maison est plus conséquent et complet que le live coding. L’objectif ici et de permettre à la personne d’être dans les bonnes conditions pour montrer son savoir-faire.
+Premièrement, je demande à la personne si elle préfère prendre le temps de réaliser le test tranquillement chez elle ou plutôt en live avec moi. Bien évident, ce n’est pas du tout le même exercice. Le test à la maison est plus conséquent et complet que le live coding. L’objectif ici et de permettre au candidat d’être dans les bonnes conditions pour montrer son savoir-faire. Il peut tout à fait me fournir un projet déjà réalisé qu'il considère être une bonne vitrine de ses compétences.
 
 Pour l’exercice à la maison, il s’agit d’un jeu de rôle assez simple. Je suis un client avec un besoin et le candidat, un prestataire pour la réalisation de l’application. J’adapte le sujet à chaque profil, l’idée étant de proposer une demande adapté. Le projet ne doit pas prendre trop de temps à réaliser, mais être suffisamment riche en logique métier pour permettre de s’exprimer.
 
