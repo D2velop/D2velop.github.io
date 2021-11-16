@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Kaizen Solution
-date:   2020-11-02 09:00:00 +0200
+date:   2021-11-02 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: https://kaizen-solutions.net/v2/wp-content/themes/kaizen/img/logo_color.svg
 tags: dev chronique
+redirect_from:
+ - /dev-life/2020/11/02/Kaizen.html
 ---
 
 Après une période dans le public, j’ai voulu aller voir ce qui se passait dans le privé. J’ai eu pas mal de difficultés à trouver un point de chute. Même avec de l’expérience, il n’était pas évident de trouver une opportunité intéressante.

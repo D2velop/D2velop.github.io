@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Polytech
-date:   2020-10-05 09:00:00 +0200
+date:   2021-10-05 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: /assets/posts/polytech/polytech_logo.jpg
 tags: dev chronique
+redirect_from:
+ - /dev-life/2020/10/05/polytech.html
 ---
 
 Durant mon dernier stage d’IUT, celui qui doit valider le diplôme, je me pose plein de questions concernant la suite de mes études. Et même, je m’interroge tout simplement sur le fait de continuer.

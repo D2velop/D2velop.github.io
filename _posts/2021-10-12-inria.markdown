@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  INRIA
-date:   2020-10-12 09:00:00 +0200
+date:   2021-10-12 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: /assets/posts/inria/INRIA_logo.png
 tags: dev chronique
+redirect_from:
+ - /dev-life/2020/10/12/inria.html
 ---
 
 Nous voici donc au moment de mon premier job officiel en tant qu’ingénieur en informatique. Je suis donc intégré à une équipe de recherche au sein d'INRIA Grenoble. Les choses sérieuses commencent pour moi.

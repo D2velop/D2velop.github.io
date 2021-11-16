@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Etude
-date:   2020-09-22 09:00:00 +0200
+date:   2021-09-22 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: https://cdn.pixabay.com/photo/2017/08/16/04/44/compass-2646437_1280.jpg
 tags: dev chronique
+redirect_from:
+ - /dev-life/2020/09/22/formation-a-distance.html
 ---
 
 Les premiers jours. Je fais ma rentrée, je rencontre les gens qui sont dans ma promo. C’est plutôt bien au début. Les premières semaines sont même très sympas. Le seul hic, c’est que je pige rien du tout aux cours de maths, que je ne tarde pas à sécher. 

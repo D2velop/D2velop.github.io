@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Leadformance
-date:   2020-11-09 09:00:00 +0200
+date:   2021-11-09 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: https://static4.pagesjaunes.fr/media/vignette/AAAJPDUUIK2W-73004.gif
 tags: dev chronique
+redirect_from:
+ - /dev-life/2020/11/09/Leadformance.html
 ---
 
 Me voici donc toujours au même endroit, mais officiellement employé de Leadformance. On pourrait croire que cela n’a pas changé grand-chose. Mais pour moi, c’était vraiment comme un nouveau job.

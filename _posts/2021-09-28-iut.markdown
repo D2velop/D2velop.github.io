@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  IUT
-date:   2020-09-28 09:00:00 +0200
+date:   2021-09-28 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: /assets/posts/iut/iut2_home.jpg
 tags: dev chronique
+redirect_from:
+ - /dev-life/2020/09/28/iut.html
 ---
 
 Alors nous somme à l’été 2007 et je fais des tonnes de recherches concernant toutes les études possibles pour faire de l’informatique, ne passant pas par une licence. Je dois avouer que c’est assez démoralisant. Il y a, à la fois, beaucoup d’alternatives et à la fois, j’ai l’impression de ne rien trouver qui me convienne.

@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  Floralis
-date:   2020-10-19 09:00:00 +0200
+date:   2021-10-19 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: /assets/posts/floralis/yeastlab_logo.png
 tags: dev chronique
+redirect_from:
+ - /dev-life/2020/10/19/floralis.html
 ---
 
 J’ai donc rejoins Floralis en tant que salarié. Il s’agit d’une filiale de l’Université Grenoble Alpes (UGA), dont le but est de valoriser les innovations issues des travaux de recherche de laboratoire locaux.
