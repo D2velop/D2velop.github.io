@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Kaizen Solution
-date:   2021-11-02 09:00:00 +0200
+date:   2020-11-02 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: https://kaizen-solutions.net/v2/wp-content/themes/kaizen/img/logo_color.svg

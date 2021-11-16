@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Etude
-date:   2021-09-22 09:00:00 +0200
+date:   2020-09-22 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: https://cdn.pixabay.com/photo/2017/08/16/04/44/compass-2646437_1280.jpg
