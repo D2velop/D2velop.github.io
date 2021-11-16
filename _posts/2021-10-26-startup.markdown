@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Startup
-date:   2020-10-26 09:00:00 +0200
+date:   2021-10-26 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: /assets/posts/startup/Logo_v2.png

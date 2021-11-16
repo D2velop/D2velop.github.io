@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Choix d'avenir
-date:   2020-09-13 09:00:00 +0200
+date:   2021-09-13 09:00:00 +0200
 categories: dev-life
 author: Cédric Gérard
 image: https://cdn.pixabay.com/photo/2016/10/24/23/11/doors-1767562__480.jpg

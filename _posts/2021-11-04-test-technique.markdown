@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Les tests techniques
-date:   2020-11-04 09:00:00 +0200
+date:   2021-11-04 09:00:00 +0200
 categories: interview
 author: Cédric Gérard
 image: https://cdn.pixabay.com/photo/2021/03/08/09/56/assessment-6078645_1280.png
