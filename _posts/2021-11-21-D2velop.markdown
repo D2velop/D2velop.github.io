@@ -1,0 +1,55 @@
+---
+layout: post
+title:  D2velop
+date:   2021-11-21 09:00:00 +0200
+categories: dev-life
+author: Cédric Gérard
+image: /favicon.ico
+tags: dev chronique
+---
+
+D2velop, c’est un projet que j’ai créé à la base pour pouvoir me ressourcer. Le but premier était de redonner du sens à ce que je faisais au quotidien et pouvoir me sentir utile.
+
+## Le marché du recrutement tech
+
+Cela faisait un moment que je suivais l’évolution du marché du recrutement dans la tech. À la fois pour pouvoir me situer sur ce marché, mais également parce que je voyais de plus ne plus de profils issus d’une reconversion.
+
+Le constat auquel je suis arrivé était assez triste cependant. En décalage complet avec la réalité, on promet monts et merveilles à des juniors qui utilisent leur CPF ou dépensent des sommes assez élevées pour, en retour, une difficulté incroyable à s’insérer sur le marché du travail.
+
+![c'est pas bien](https://media.giphy.com/media/gLp8NXBF32DNYWTa73/giphy.gif){: .post_img .post_img_sm} *C'est clairement pas honnête*
+
+En effet, on entend qu’il y a une énorme pénurie de développeurs et qu’il est difficile de recruter. Alors on s’est mis à former de plus ne plus de monde pour régler le problème et permettre de retrouver un équilibre offre/demande. Seulement la situation est plus complexe que cela. La « pénurie » ne concerne pas l’ensemble de la profession, mais bien certains profils. Tout particulièrement les développeurs expérimentés ainsi que certaines spécialités récentes (data, IA, DevOps, par exemple).
+
+On parle de pénurie, mais une entreprise qui propose une bonne valorisation du métier de développeur avec la rémunération, la reconnaissance et l’autonomie qui va avec n’a aucun mal à recruter des développeurs expérimentés et compétents (attention, il n’y a pas forcément de lien entre les deux 😱). En revanche avec un salaire dans là-bas du tableau, une mission qui manque de sens et aucune valorisation du travail de développeur, il ne faut pas s’étonner de ne pas trouver de profils. Ce n’est pas qu’il n’y en a pas. C’est juste qu’ils ne veulent pas venir chez ces entreprises 😖. Il y a aussi le problème de la marque employeur, certaines entreprises n’ont pas encore conscience qu’elles sont blacklistés par une immense partie des devs ou qu’elles sont le symbole de tout ce qu’on ne veut pas connaître. C’est donc encore plus difficile pour elles de trouver de bons profils. Dans un article précédent, je parlais de mon passage en ESN. Aujourd’hui, ces entreprises sont celles qui sont le plus confronté à cette problématique. Pourtant, elles représentent une grande partie de la demande.
+
+Il n’y a en fait pas de problème pour le recrutement de nouveaux développeurs juniors. Entre les universités, les écoles d’ingénieurs, les écoles privées, on a déjà de nouveaux profils qui arrivent régulièrement sur le marché et qui doivent trouver une place. Maintenant, il faut ajouter toutes les formations en ligne et les bootcamps. Ces nouveaux profils se retrouvent en concurrence directe avec des personnes qui ont entre 2 ans et 5 ans de formations et un diplôme/certificat qui a moins de crédibilité sur le marché. C’est une des raisons qui compliquent leur accès à l’emploi 😓. On entend souvent qu'il faut laisser leur chance aux juniors, mais dans la réalité, c’est bien le cas. Il y a énormément d’embauches de junior dans les faits. Cependant, il faut bien avoir conscience qu’il y a différents niveaux de compétences. On retrouve malheureusement beaucoup de profils similaires et avec peu de compétences autres que de savoir utiliser un langage. Le problème étant qu'il faut bien plus que ça pour être un développeur.
+
+## Les attentes en entreprise
+
+J’ai eu la chance de faire un grand nombre d’entretiens d’embauche pour les entreprises où j’ai travaillé. J’ai également eu à encadrer des stagiaires, alternants et à faire l’onboarding de nouvelles recrues.
+
+Mon constat, c’est que la plupart des bootcamp et formations en ligne ne donnent pas un niveau en sortie suffisant pour être réellement employable 😣. Pour avoir vu plein de personnes sortir de ces dernières, il y a clairement un manque énorme dans les compétences de bases. Ces formations sont bien souvent trop superficielles, elles se concentrent sur la partie outils du métier (les langages, Framework) et sur les effets "waouh" (de belles interfaces web ou mobile). Le problème ici, c’est que ce sont des compétences volatiles et qui n’ont que peu de valeur. Un développeur aguerri avec les bonnes pratiques et la maîtrise des fondamentaux n’a aucun problème pour changer de langage ou Framework. D’autre part, on a une génération de juniors qui se contente d’avoir une application qui « marche ». Je vais peut-être choquer un peu ici, mais ce n’est en aucun cas quelque chose d’extraordinaire 😒. À la fois, c’est normal de faire quelque chose qui fonctionne, et dans la majorité des cas (application web ou mobile) c’est à la portée de n’importe qui 🤫.
+
+Une entreprise qui vend un produit ou s’appuie sur une solution pour délivrer sa valeur ne se contente pas d’une solution qui fonctionne à un instant t. Il faut que cette dernière garantisse son résultat, qu’elle soit évolutive et maintenable sur plusieurs années. En bref, on attend du professionnalisme. Et cela demande d’acquérir des pratiques, d’avoir des connaissances théoriques de bases au minimum et de réellement maîtriser les paradigmes qui sont derrière les outils.
+
+Cela ne veut pas dire que ces formations sont à éviter 😮. Juste qu’elles ne sont pas réellement honnêtes concernant leur promesse (merci le marketing). Elles permettent de se mettre le pied à l’étrier, d’avoir un cadre pour apprendre et un suivi. Elles permettent aussi d’obtenir un titre reconnu par l’état. Il faut juste avoir conscience que ce n’est pas suffisant. Et que s’insérer sur le marché du travail demandera un investissement bien plus important que ces formations pour compenser les manques.
+
+J’ai eu l’occasion de rencontrer différents styles de personnes qui avaient suivi des bootcamps. Celles qui se contentent de la formation et celles qui s’investissent au-delà. Il n’y a pas photo. Celles qui sont allées chercher plus loin, qui ont réalisé des projets (je parle de vrais projets, pas un tuto) qui mettent en avant des pratiques reconnues et qui se sont investie dans des réseaux avec des développeurs plus expérimentés savent convaincre et trouve un emploi. Les autres envois des CV ou ne sont pas conservés après la période d’essai, car elles ont du mal à franchir le mur de la réalité du métier.
+
+Il y a également un autre paramètre à prendre en compte actuellement. L'essor du no-code. En effet, ces outils offrent la possibilité aux personnes qui ne savent pas coder de réaliser des sites, application mobile et toute sorte d'automatisations. Cela impacte également la demande de profils junior, car les startups et beaucoup de projets internes aux entreprises sont maintenant réalisés avec ces outils. Ce sont autant d'opportunités en moins pour les personnes en recherche.
+
+## L’apport de D2velop
+
+Mon objectif était d’apporter mon aide afin de combler le manque de compétences au travers d’un mentorat pour développeurs juniors. Transmettre et aider des gens à s’accomplir dans le métier de développeur, c’est clairement ce qui fait sens au travers de D2velop. Je me suis pas mal cherché concernant l’offre à proposer. Passant d’une formation payante en bêta à un Dojo ouvert tout récemment.
+
+Je me suis beaucoup investi au début avec pas mal d’espoir, je dois dire. Je n’ai pas réussi à faire ce que j’avais en tête et finalement avec un boulot à plein temps, j’ai failli me cramer. Je me suis épuisé et j’ai pensé à tout arrêter. J’ai donc pris une pause et du temps pour réfléchir à ce que je voulais faire avec D2velop et à ce qui me motivait.
+
+J'ai créé un blog qui me permet d’écrire et de partager ma vision et mon expérience. D2velop est maitenant un Dojo dédié aux développeurs juniors. Il a pour but de transmettre les compétences profondes qui sont nécessaires pour être un bon dev. Dans ce dojo, il y a des échanges pour les connaissances théoriques et des sessions en live pour la pratique.
+
+Je propose également d’aider les développeurs juniors qui doivent passer des entretiens techniques. Avec mon expérience, que ce soit d’un côté ou de l’autre, j’apporte des conseils pour bien préparer cette étape d’un processus de recrutement. J’aide les juniors à mettre en valeur leurs forces et à être à l’aise avec leurs faiblesses.
+
+## Ce n'est que le début
+
+J’ai encore plein d’idées pour faire évoluer D2velop, mais pour l’instant l’objectif est de réaliser des sessions live régulièrement. En sachant que je suis toujours sur un job à temps plein à côté, je compte y aller plus progressivement pour ne pas m’épuiser au bout de quelques semaines 😁.
+
+![nouveau lancement](https://media.giphy.com/media/l0DAG3B1k4I6p3pg4/giphy.gif){: .post_img .post_img_md}
