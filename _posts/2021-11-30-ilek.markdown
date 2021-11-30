@@ -14,15 +14,15 @@ En fait, je prenais énormément de plaisir avec D2velop, mais à l’inverse, j
 
 Je n’étais quand même pas motivé de repasser par la case entretien et tests techniques. J’avais aussi clairement un doute de trouver mieux ailleurs. Je commençais à me dire qu'au final, c’était partout pareil.
 
-Mais je suis tombé, par hasard sur une offre publié sur LinkedIn par Shirley (je suis sûr que la plupart d’entre vous la connaisse). J’ai jeté un œil par curiosité (ce que je fais souvent par ailleurs) et j’avoue que sa description m’a tapé dans l’œil. Ça faisait longtemps que j’étais dans le doute, mais là, j’étais clairement sûr qu’il fallait que je postule.
+Mais je suis tombé, par hasard sur une offre publiée sur LinkedIn par Shirley (je suis sûr que la plupart d’entre vous la connaisse). J’ai jeté un œil par curiosité (ce que je fais souvent par ailleurs) et j’avoue que sa description m’a tapé dans l’œil. Ça faisait longtemps que j’étais dans le doute, mais là, j’étais clairement sûr qu’il fallait que je postule.
 
 ## Annonce
 
-L’annonce était géniale, car elle respirait la sincérité. Je dis ça parce qu’elle ne survendait pas tous les aspects positifs de l’entreprise à coup de mots-clés racoleurs. Elle n’éludait pas non plus les aspects négatifs ou les manques de l’organisation actuelle. Cette sincérité donne de la crédibilité à la description, on a la sensation d’être en face d’un quelque chose de réel et non d’une insupportable publicité.
+L’annonce était géniale et elle respirait la sincérité. Je dis ça parce qu’elle ne survendait pas tous les aspects positifs de l’entreprise à coup de mots-clés racoleurs. Elle n’éludait pas non plus les aspects négatifs ou les manques de l’organisation actuelle. Cette sincérité donne de la crédibilité à la description, on a la sensation d’être en face d’un quelque chose de réel et non d’une insupportable publicité.
 
 Je décide donc de répondre à l’annonce. Ici pas besoin d’envoyer un CV, mais de remplir un formulaire tout simple avec ses coordonnées et un champ libre. Je me suis donc laisser aller sur ce que m’inspirai l’annonce et sur ce que je désirai dans mon job.
 
-J’ai été recontacté rapidement et mon message avait fortement intéressé la recruteuse. Après un échange avec elle, sur la culture de l’entreprise, les attentes dans l’équipe tech et le fonctionnement en général. J’ai été envoyé vers le CTO du moment pour un échange plus poussé niveau culture technique.
+J’ai été recontacté rapidement et mon message avait fortement intéressé la recruteuse. J'ai échangé avec elle, sur la culture de l’entreprise, les attentes dans l’équipe tech et le fonctionnement en général. J’ai été envoyé vers le CTO du moment pour un échange plus poussé niveau culture technique.
 
 ## Craftmanship
 
@@ -32,11 +32,11 @@ J’ai donc continué le processus de recrutement avec un test technique basé s
 
 Après une autre visio avec des membres de l’équipe pour le fit perso et un point avec le CEO d’ilek me voici avec une promesse d’embauche. Autant vous dire qu’il n’a pas été difficile de choisir entre la morosité de mon quotidien chez Solocal et la proposition d’ilek qui était plus intéressante sur tous les points.
 
-En vrai les rencontres avec le CTO et le lead dev ont autant comptées dans mon choix de rejoindre ilek que l’entreprise et le projet en lui-même.
+En vrai, les rencontres avec le CTO et le lead dev ont autant comptées dans mon choix de rejoindre ilek que l’entreprise et le projet en lui-même.
 
 ## Les débuts
 
-Ce n'est pas si vieux que ça. Je suis arrivé le 3 janvier 2021. Je commence par une semaine de formation sur l'entreprise. On m’apprend quel est le rôle d’un fournisseur d’énergie, les valeurs d’ilek, les différents métiers. (les opérateurs, le marketing, la team énergie et la team tech).
+Ce n'est pas si vieux que ça. Je suis arrivé le 4 janvier 2021. Je commence par une semaine de formation sur l'entreprise. On m’apprend quel est le rôle d’un fournisseur d’énergie, les valeurs d’ilek, les différents métiers. (les opérateurs, le marketing, la team énergie et la team tech).
 
 Cette semaine est suivie d’une semaine d’onboarding tech où je suis en pair avec le lead dev pour le setup de mon environnement de travail et la prise de connaissance des outils et process de l’équipe tech.
 
@@ -44,11 +44,11 @@ Je suis ensuite intégré à une des équipes pour rentrer dans le vif du sujet.
 
 ## Team activation
 
-Le produit est découpé en trois cycles de vie par rapport à nos clients. Il y a une équipe pour chaque cycle de vie. J’ai été intégré à l'équipe activation qui se charge de l’activation des contrats des clients et de la liaison avec les gestionnaires de réseau (Enedis et GRDF).
+Le produit est découpé en trois cycles de vie par rapport à nos clients. Il y a une équipe pour chaque cycle de vie. J’ai rejoint l'équipe activation qui se charge d'activer les contrats des clients et de la liaison avec les gestionnaires de réseau (Enedis et GRDF).
 
 Franchement, j’ai adoré l’organisation de l’équipe qui est libre et efficace sur son sujet. Pas de Scrum ou autre méthodologie particulière, juste un pilotage par le terrain et une livraison en continue. Ce qu'il y a de bien, c’est que les équipes sont constituées de toutes les compétences nécessaires à la réalisation. Il y a des devs, des POs et des opérateurs (clients du Back office de l’application).
 
-Dans cette équipe, on travaille principalement sur le back-office et sur l’espace client. On touche donc à du Ruby On Rails (RoR) en back et à du React en front (espace client). Je n’avais eu qu’une seule expérience sur du RoR chez Leadformance lorsque je suis entré au support. J’avoue que ça n’avait pas été extraordinaire et que je n’en garde pas un bon souvenir. Ici, c’est différent, j’apprécie plus le langage et le framework. Il n’est pas parfait (non typé par exemple) mais je me sans à l’aise avec aujourd’hui.
+Dans cette équipe, on travaille principalement sur le back-office et sur l’espace client. On touche donc à du Ruby On Rails (RoR) en back et à du React en front (espace client). Je n’avais eu qu’une seule expérience sur du RoR chez Leadformance lorsque je suis entré au support. J’avoue que ça n’avait pas été extraordinaire et que je n’en garde pas un bon souvenir. Ici, c’est différent, j’apprécie plus le langage et le framework. Il n’est pas parfait (non typé par exemple) mais je me sens à l’aise avec aujourd’hui.
 
 Il y a pas mal de code legacy dans le périmètre de cette équipe. Un gros travail de refactoring avait déjà été fait avec que j’arrive et emboîter le pas n’a pas été très difficile.
 
@@ -62,15 +62,15 @@ Cela a duré environ 5 mois. Comme je suis abonné aux revirements côté pro, j
 
 Cela n’a pas manqué, deux démissions ont suivi rapidement, puis trois autres encore un peu plus tard. Résultat, 6 départs en 4 mois, 50 % des développeurs. Devant cette débâcle et le manque de réaction de l’entreprise, j’ai eu l’impression qu’on nous oubliait un peu. ilek cherchait son nouveau CTO avant de compenser les départs pour que ce soit lui qui prenne en charge la constitution de son équipe.
 
-Ça a été un moment qui m’a paru interminable, avec énormément de doute dans l’équipe. Je crois qu’il n'y a rien de pire pour une équipe qu’une situation flou. C’est destructeur pour la motivation.
+Ça a été un moment qui m’a paru interminable, avec énormément de doute dans l’équipe. Je crois qu’il n'y a rien de pire qu’une situation qui reste dans flou. C’est devastateur pour la motivation.
 
 ## Le doute (le retour)
 
-J’ai l’impression de le mettre souvent ce titre 😅. Mais clairement, ici, c’est une belle chute. J’étais tellement au top depuis mon intégration que là, c’est la douche froide. Pourtant même après le départ de notre CTO, sans chef à notre bord il n’y a pas grand-chose qui a changé. Nous étions toujours capables de livrer nos projets et d’avancer sur les changements techniques amorcés. Les membres de l'équipe tech restaient toujours soudés malgré la situation.
+J’ai l’impression de le mettre souvent ce titre 😅. Mais clairement, ici, c’est une belle chute. J’étais tellement au top depuis mon intégration que là, c’est la douche froide. Pourtant même après le départ de notre CTO, sans chef à notre bord, il n’y a pas grand-chose qui a changé. Nous étions toujours capables de livrer nos projets et d’avancer sur les changements techniques amorcés. Les membres de l'équipe tech restaient soudés malgré la situation.
 
 Il y a encore 2 mois, j’ai hésité à partir aussi. J’ai même lancé les démarches dans l’entreprise où sont partis 5 des devs qui nous ont quittés (il faut dire qu’elle a de sérieux arguments pour convaincre). Mais je me sentais mal à l’aise avec ça. Déjà, parce que je n’avais rien à reprocher à ilek. Les promesses que j’avais eues à l’embauche étaient tenues et je me sentais bien. Deuxièmement, je n’étais pas à l’aise avec l’idée de partir alors que j’étais là depuis quelques mois seulement. Ça peut paraître idiot, mais j’avais l’impression de laisser tomber l’équipe dans un moment difficile pour une ambition personnelle et ça n’est pas en adéquation avec mes valeurs.
 
-Autre élément très important, l’arrivé dans quelques mois de mon fils allait coïncider avec la fin de mon préavis. Je ne me voyais pas commencer dans une nouvelle entreprise par un congé de paternité. Je ne voulais pas non plus cumuler les changements. Ma famille est ma priorité dans la vie et devenir père va avoir un impact important sur mon quotidien. Je sais qu’ilek garantie un bon rapport vie pro/vie perso ce qui n’aurait pas été le cas si j’étais partie. Rien que le fait de devoir s’acclimater à une nouvelle structure, de nouveaux langages, de nouveaux process et de nouvelles problématiques métier demandent un investissement lourd. Si on ajoute à ça la découverte de la parentalité et la gestion d’un nouveau-né en télétravail, il y a un gros risque de gâcher de bons moments par la fatigue ou une gestion complexe du quotidien.
+Autre élément très important, l’arrivé dans quelques mois de mon fils allait coïncider avec la fin de mon préavis. Je ne me voyais pas commencer dans une nouvelle entreprise par un congé de paternité. Je ne voulais pas non plus cumuler les changements. Ma famille est ma priorité dans la vie et devenir père va avoir un impact important sur mon quotidien. Je sais qu’ilek garantie un bon rapport vie pro/vie perso ce qui n’aurait pas été le cas si j’étais parti. Rien que le fait de devoir s’acclimater à une nouvelle structure, de nouveaux langages, de nouveaux process et de nouvelles problématiques métier demandent un investissement lourd. Si on ajoute à ça la découverte de la parentalité et la gestion d’un nouveau-né en télétravail, il y a un gros risque de gâcher de bons moments par la fatigue ou une gestion complexe du quotidien.
 
 J’ai donc décidé de retirer ma candidature. Tant pis si c’est une superbe opportunité dans le monde la tech. Aujourd’hui, je me sens bien avec cette décision et je suis pleinement investi en tant que futur papa et lead dev chez ilek.
 
@@ -78,12 +78,12 @@ J’ai donc décidé de retirer ma candidature. Tant pis si c’est une superbe 
 
 Une fois notre nouveau CTO en place et opérationnel, c’est donc un projet de reconstruction de l’équipe qui s’amorce. On met les départs derrière nous pour nous concentrer sur l’année qui arrive (2022). On passe donc par une phase de recrutement (7 postes à pourvoir). Je m’investis pas mal sur cet aspect. J’adore faire les entretiens techniques et échanger avec des recrues potentielles. Le marché regorge de profils juniors, mais c’est beaucoup plus compliqué de trouvé des dev expérimentés. J'entends par là, qui ont un réel savoir-faire (les années ça ne veut pas dire grand-chose). Je passe le mot sur différents réseaux dans l’espoir de convaincre de bons profils de nous rejoindre. Pour l’instant rien de conclu, mais on a quelques bons candidats/es qui ont émergé.
 
-Le deuxième point de la reconstruction, c’est la définition claire de nos guidelines. On part sur la documentation de nos manières de travailler, sur nos choix techniques. Le but étant de mettre tout le monde d’accord sur les choix passés et en cours et de les documenter pour faciliter l’onboarding des nouveaux.
+Le deuxième point de la reconstruction, c’est la définition claire de nos guidelines. On part sur la documentation de nos manières de travailler et sur la documentation de nos choix techniques. Le but étant de mettre tout le monde d’accord sur les choix passés et en cours et de faciliter l’onboarding des nouveaux.
 
-Je prends une place plus importante dans cette nouvelle organisation. Les devs qui sont partis étaient des leader et cela a laissé un grand vide. Notre nouveau CTO s’appuie sur les membres les plus expérimentés pour prendre en main les sujets qu’on souhaite faire avancer et pour transmettre les connaissances dans l’équipe.
+Je prends une place plus importante dans cette nouvelle organisation. Les devs qui sont partis étaient des leaders et cela a laissé un grand vide. Notre nouveau CTO s’appuie sur les membres les plus expérimentés pour prendre en main les sujets qu’on souhaite faire avancer et pour transmettre les connaissances dans l’équipe.
 
 Ça me plaît de participer activement au recrutement, d’échanger sur les choix d’architecture et d’avoir des responsabilités qui vont au-delà du code. J’ai le sentiment qu’il y a de quoi s’épanouir si on arrive à s’affranchir du legacy du produit.
 
 ## Fin d'année
 
-On approche de la fin d’année. Une année qui a été super riche, beaucoup de nouvelles rencontres, de chose apprise, de technos découvertes et d’émotions vécues. Tous les efforts sont tournés vers une clôture de 2021 qui nous met sur les bons rails pour lancer une année 2022 très prometteuse.
+On approche de la fin d’année. Une année qui a été super riche, beaucoup de nouvelles rencontres, de choses apprises, de technos découvertes et d’émotions vécues. Tous les efforts sont tournés vers une clôture de 2021 qui nous met sur les bons rails pour lancer une année 2022 très prometteuse.
