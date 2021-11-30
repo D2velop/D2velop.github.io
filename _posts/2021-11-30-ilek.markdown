@@ -80,7 +80,7 @@ Une fois notre nouveau CTO en place et opérationnel, c’est donc un projet de 
 
 Le deuxième point de la reconstruction, c’est la définition claire de nos guidelines. On part sur la documentation de nos manières de travailler, sur nos choix techniques. Le but étant de mettre tout le monde d’accord sur les choix passés et en cours et de les documenter pour faciliter l’onboarding des nouveaux.
 
-Dans cette nouvelle organisation, je prends une place plus importante dans cette nouvelle organisation. Les devs qui sont partis étaient des leader et cela a laissé un grand vide. Notre nouveau CTO s’appuie sur les membres les plus expérimentés pour prendre en main les sujets qu’on souhaite faire avancer et pour transmettre les connaissances dans l’équipe.
+Je prends une place plus importante dans cette nouvelle organisation. Les devs qui sont partis étaient des leader et cela a laissé un grand vide. Notre nouveau CTO s’appuie sur les membres les plus expérimentés pour prendre en main les sujets qu’on souhaite faire avancer et pour transmettre les connaissances dans l’équipe.
 
 Ça me plaît de participer activement au recrutement, d’échanger sur les choix d’architecture et d’avoir des responsabilités qui vont au-delà du code. J’ai le sentiment qu’il y a de quoi s’épanouir si on arrive à s’affranchir du legacy du produit.
 
