@@ -2,10 +2,10 @@
 layout: post
 title:  No Code
 date:   2021-12-07 09:00:00 +0200
-categories: dev-life
+categories: technologie
 author: Cédric Gérard
 image: /assets/posts/nocode/nocode.png
-tags: dev chronique
+tags: nocode
 ---
 
 Cela fait un moment qu’on entend parler de No Code, c’est aujourd’hui devenu un buzzword de plus, mais qui cache pourtant un véritable phénomène dans le monde de la tech.
