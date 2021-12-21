@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  La places des langages
+title:  La place des langages
 date:   2021-12-14 09:00:00 +0200
 categories: technologie
 author: Cédric Gérard
