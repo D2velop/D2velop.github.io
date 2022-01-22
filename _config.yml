@@ -67,6 +67,6 @@ whitelist:
 lang: "fr"
 show_excerpts: true
 paginate: 4
-paginate_path: "/content/page_:num/"
+paginate_path: "/articles/page_:num/"
 
 google_analytics: G-6KSZTFSFFW
