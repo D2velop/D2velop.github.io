@@ -5,7 +5,7 @@ list_title: Les derniers articles
 ---
 
 <div class="home">
-    <div class="intro">
+    <section class="intro">
         <p>
             Bienvenue sur le blog de D2velop, ici, je souhaite vous partager mon
             <code class="language-plaintext highlighter-rouge">expérience de développeur</code>
@@ -28,10 +28,10 @@ list_title: Les derniers articles
         <p>
             Bonne lecture à vous et n'hésitez pas à me poser vos questions.
         </p>
-    </div>
+    </section>
 
     {%- if site.posts.size > 0 -%}
-    <div class="post-block">
+    <section class="post-block">
         <h2 class="post-list-heading">{{ page.list_title }}</h2>
         <ul class="post-list">
             {%- assign home_posts = site.posts | slice: 0, 4 -%}
@@ -45,7 +45,7 @@ list_title: Les derniers articles
             </a>
             {%- endfor -%}
         </ul>
-    </div>
+    </section>
 
     {%- endif -%}
 

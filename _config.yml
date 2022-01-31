@@ -32,7 +32,7 @@ linkedin_username: cegerard
 twitter_username: eriatand
 rss: RSS
 date_format: "%d/%m/%Y"
-base_site_url: "https://d2velop.fr/"
+base_site_url: "https://blog.d2velop.fr/"
 
 # Build settings
 theme: minima
@@ -68,5 +68,3 @@ lang: "fr"
 show_excerpts: true
 paginate: 4
 paginate_path: "/articles/page_:num/"
-
-google_analytics: G-6KSZTFSFFW
