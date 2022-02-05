@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: D2velop
-email: contact@d2velop.fr
+email: d2velop@eriatand.org
 description: >- # this means to ignore newlines until "baseurl:"
   Le blog de D2velop a été réalisé pour partager mes expériences dans le monde de la tech et mon vécu
   en tant que développeur. Apprenez les bonnes pratiques et monter en compétence pour dévenir
