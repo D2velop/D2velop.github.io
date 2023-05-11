@@ -3,40 +3,12 @@
     <title>d2velop</title>
     <link href="https://blog.d2velop.fr/feed.xml" rel="self" />
     <link href="https://blog.d2velop.fr" />
-    <updated>2023-05-11T23:50:22+02:00</updated>
+    <updated>2023-05-12T09:00:00+02:00</updated>
     <author>
         <name>Cédric Gérard</name>
     </author>
     <id>https://blog.d2velop.fr</id>
 
-    <entry>
-        <title>I&#x27;m back</title>
-        <author>
-            <name>Cédric Gérard</name>
-        </author>
-        <link href="https://blog.d2velop.fr/im-back/"/>
-        <id>https://blog.d2velop.fr/im-back/</id>
-        <media:content url="https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png" medium="image" />
-
-        <updated>2023-05-10T23:29:40+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png" alt="" />
-                    Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité. Aujourd’hui, je suis plus posé et je compte me remettre à publier&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png" class="type:primaryImage" alt="" /></p>
-                <p>Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité.</p>
-<p>Aujourd’hui, je suis plus posé et je compte me remettre à publier toutes les semaines sur le blog. Pour la reprise, je vais me lancer dans une série d’articles sur les principes SOLID.</p>
-<p>J’espère pouvoir vous éclairer sur ce sujet et vous aider à produire un code de meilleure qualité.</p>
-<p>Pour ce retour, j’ai décidé de refondre entièrement le site afin qu’il soit plus moderne et facile à maintenir. J’en profite pour passer une petite annonce : si vous avez la volonté de partager vos connaissances par l’écriture, mais que vous ne souhaitez pas gérer un site, je serai ravi de vous aider à passer le cap et à publier vos écrits sur D2velop.</p>
-<p>Je vous dis à bientôt.</p>
-
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>Principes SOLID - Intro</title>
         <author>
@@ -46,7 +18,7 @@
         <id>https://blog.d2velop.fr/principes-solid-intro-2/</id>
         <media:content url="https://blog.d2velop.fr/media/posts/24/solid.png" medium="image" />
 
-        <updated>2023-05-11T23:50:22+02:00</updated>
+        <updated>2023-05-12T09:00:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.d2velop.fr/media/posts/24/solid.png" alt="" />
@@ -92,6 +64,34 @@
 </ol>
 <p>Ces principes font aujourd'hui parti des fondamentaux de la programmation orientée objet. Ils peuvent aider les développeurs à créer des logiciels plus faciles à comprendre, à modifier, à maintenir et à tester.</p>
 <p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>I&#x27;m back</title>
+        <author>
+            <name>Cédric Gérard</name>
+        </author>
+        <link href="https://blog.d2velop.fr/im-back/"/>
+        <id>https://blog.d2velop.fr/im-back/</id>
+        <media:content url="https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png" medium="image" />
+
+        <updated>2023-05-11T23:55:05+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png" alt="" />
+                    Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité. Aujourd’hui, je suis plus posé et je compte me remettre à publier&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png" class="type:primaryImage" alt="" /></p>
+                <p>Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité.</p>
+<p>Aujourd’hui, je suis plus posé et je compte me remettre à publier toutes les semaines sur le blog. Pour la reprise, je vais me lancer dans une série d’articles sur les principes SOLID.</p>
+<p>J’espère pouvoir vous éclairer sur ce sujet et vous aider à produire un code de meilleure qualité.</p>
+<p>Pour ce retour, j’ai décidé de refondre entièrement le site afin qu’il soit plus moderne et facile à maintenir. J’en profite pour passer une petite annonce : si vous avez la volonté de partager vos connaissances par l’écriture, mais que vous ne souhaitez pas gérer un site, je serai ravi de vous aider à passer le cap et à publier vos écrits sur D2velop.</p>
+<p>Je vous dis à bientôt.</p>
+
             ]]>
         </content>
     </entry>

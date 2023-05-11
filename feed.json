@@ -10,21 +10,6 @@
     },
     "items": [
         {
-            "id": "https://blog.d2velop.fr/im-back/",
-            "url": "https://blog.d2velop.fr/im-back/",
-            "title": "I&#x27;m back",
-            "summary": "Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité. Aujourd’hui, je suis plus posé et je compte me remettre à publier&hellip;",
-            "content_html": "<p>Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité.</p>\n<p>Aujourd’hui, je suis plus posé et je compte me remettre à publier toutes les semaines sur le blog. Pour la reprise, je vais me lancer dans une série d’articles sur les principes SOLID.</p>\n<p>J’espère pouvoir vous éclairer sur ce sujet et vous aider à produire un code de meilleure qualité.</p>\n<p>Pour ce retour, j’ai décidé de refondre entièrement le site afin qu’il soit plus moderne et facile à maintenir. J’en profite pour passer une petite annonce : si vous avez la volonté de partager vos connaissances par l’écriture, mais que vous ne souhaitez pas gérer un site, je serai ravi de vous aider à passer le cap et à publier vos écrits sur D2velop.</p>\n<p>Je vous dis à bientôt.</p>\n",
-            "image": "https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png",
-            "author": {
-                "name": "Cédric Gérard"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-05-10T23:06:36+02:00",
-            "date_modified": "2023-05-10T23:29:40+02:00"
-        },
-        {
             "id": "https://blog.d2velop.fr/principes-solid-intro-2/",
             "url": "https://blog.d2velop.fr/principes-solid-intro-2/",
             "title": "Principes SOLID - Intro",
@@ -36,8 +21,23 @@
             },
             "tags": [
             ],
-            "date_published": "2023-05-08T21:28:39+02:00",
-            "date_modified": "2023-05-11T23:50:22+02:00"
+            "date_published": "2023-05-12T09:00:00+02:00",
+            "date_modified": "2023-05-12T09:00:00+02:00"
+        },
+        {
+            "id": "https://blog.d2velop.fr/im-back/",
+            "url": "https://blog.d2velop.fr/im-back/",
+            "title": "I&#x27;m back",
+            "summary": "Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité. Aujourd’hui, je suis plus posé et je compte me remettre à publier&hellip;",
+            "content_html": "<p>Il y a plus d’un an et demi maintenant, j’ai arrêté le mentorat avec D2velop faute d’énergie. Je pensais pouvoir continuer à écrire des articles régulièrement, mais finalement j’ai également abandonné cette activité.</p>\n<p>Aujourd’hui, je suis plus posé et je compte me remettre à publier toutes les semaines sur le blog. Pour la reprise, je vais me lancer dans une série d’articles sur les principes SOLID.</p>\n<p>J’espère pouvoir vous éclairer sur ce sujet et vous aider à produire un code de meilleure qualité.</p>\n<p>Pour ce retour, j’ai décidé de refondre entièrement le site afin qu’il soit plus moderne et facile à maintenir. J’en profite pour passer une petite annonce : si vous avez la volonté de partager vos connaissances par l’écriture, mais que vous ne souhaitez pas gérer un site, je serai ravi de vous aider à passer le cap et à publier vos écrits sur D2velop.</p>\n<p>Je vous dis à bientôt.</p>\n",
+            "image": "https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png",
+            "author": {
+                "name": "Cédric Gérard"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-05-10T23:00:00+02:00",
+            "date_modified": "2023-05-11T23:55:05+02:00"
         },
         {
             "id": "https://blog.d2velop.fr/savoir-arreter/",
