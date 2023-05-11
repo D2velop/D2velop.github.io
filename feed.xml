@@ -3,7 +3,7 @@
     <title>d2velop</title>
     <link href="https://blog.d2velop.fr/feed.xml" rel="self" />
     <link href="https://blog.d2velop.fr" />
-    <updated>2023-05-10T23:29:40+02:00</updated>
+    <updated>2023-05-11T23:50:22+02:00</updated>
     <author>
         <name>Cédric Gérard</name>
     </author>
@@ -34,6 +34,64 @@
 <p>Pour ce retour, j’ai décidé de refondre entièrement le site afin qu’il soit plus moderne et facile à maintenir. J’en profite pour passer une petite annonce : si vous avez la volonté de partager vos connaissances par l’écriture, mais que vous ne souhaitez pas gérer un site, je serai ravi de vous aider à passer le cap et à publier vos écrits sur D2velop.</p>
 <p>Je vous dis à bientôt.</p>
 
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Principes SOLID - Intro</title>
+        <author>
+            <name>Cédric Gérard</name>
+        </author>
+        <link href="https://blog.d2velop.fr/principes-solid-intro-2/"/>
+        <id>https://blog.d2velop.fr/principes-solid-intro-2/</id>
+        <media:content url="https://blog.d2velop.fr/media/posts/24/solid.png" medium="image" />
+
+        <updated>2023-05-11T23:50:22+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.d2velop.fr/media/posts/24/solid.png" alt="" />
+                    Les principes SOLID sont un ensemble de cinq principes de conception logicielle qui ont été développés par Robert C. Martin, également connu sous le nom d'Oncle Bob. Ils ont été formulés pour aider les développeurs à créer des logiciels qui sont faciles à comprendre, à modifier&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.d2velop.fr/media/posts/24/solid.png" class="type:primaryImage" alt="" /></p>
+                <p>Les principes SOLID sont un ensemble de cinq principes de conception logicielle qui ont été développés par Robert C. Martin, également connu sous le nom d'Oncle Bob. Ils ont été formulés pour aider les développeurs à créer des logiciels qui sont faciles à comprendre, à modifier et à maintenir.</p>
+<p>Il y a un principe pour chaque lettre de l'acronyme SOLID :</p>
+<ol>
+<li>
+<p>Le principe de responsabilité unique (<strong>S</strong>RP: Single Responsibility Principle) : Une classe ne devrait avoir qu'une seule raison de changer.</p>
+</li>
+<li>
+<p>Le principe d'ouverture/fermeture (<strong>O</strong>CP: Open/Close Principle) : Les entités logicielles (classes, modules, fonctions, etc.) devraient être ouvertes à l'extension mais fermées à la modification.</p>
+</li>
+<li>
+<p>Le principe de substitution de Liskov (<strong>L</strong>SP: Liskov Substitution Principle) : Les objets d'une classe dérivée devraient pouvoir être substitués à la place des objets de la classe de base sans altérer la cohérence du programme.</p>
+</li>
+<li>
+<p>Le principe de ségrégation d'interface (<strong>I</strong>SP: Interface Segregation Principle) : Les clients ne devraient pas être forcés d'implémenter des interfaces qu'ils n'utilisent pas.</p>
+</li>
+<li>
+<p>Le principe d'inversion de dépendance (<strong>D</strong>IP: Dependency Injection Principle) : Les modules de haut niveau ne devraient pas dépendre des modules de bas niveau. Les deux devraient dépendre d'abstractions.</p>
+</li>
+</ol>
+<p>Voici quelques-uns des avantages de l'application des principes SOLID en programmation orientée objet :</p>
+<ol>
+<li>
+<p><strong>Une meilleure organisation du code</strong> : Les principes SOLID permettent d'organiser le code de manière à ce qu'il soit facile à comprendre et à modifier. En appliquant le SRP, par exemple, vous vous assurez que chaque classe n'est qu'une seule raison de changer ce qui facilite la compréhension et la modification du code.</p>
+</li>
+<li>
+<p><strong>Une meilleure maintenabilité</strong> : En appliquant les principes SOLID, vous pouvez rendre votre code plus facile à maintenir. En suivant le principe OCP, par exemple, vous pouvez étendre les fonctionnalités de votre logiciel sans avoir à modifier le code existant. Cela rend les changements plus simples et limite les bugs.</p>
+</li>
+<li>
+<p><strong>Une meilleure évolutivité</strong> : En appliquant les principes SOLID, vous pouvez rendre votre code plus facile à étendre. En suivant le principe ISP, par exemple, vous pouvez créer des interfaces spécifiques à chaque client, ce qui vous permet de faire évoluer votre logiciel en fonction des besoins de chaque client sans avoir à modifier le code existant.</p>
+</li>
+<li>
+<p><strong>Une meilleure testabilité</strong> : Les principes SOLID permettent de rendre votre code plus facile à tester. En suivant le principe LSP, par exemple, vous pouvez vous assurer que vos classes dérivées sont conformes aux contrats de leurs classes de base, ce qui facilite les tests unitaires.</p>
+</li>
+</ol>
+<p>Ces principes font aujourd'hui parti des fondamentaux de la programmation orientée objet. Ils peuvent aider les développeurs à créer des logiciels plus faciles à comprendre, à modifier, à maintenir et à tester.</p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -397,64 +455,6 @@
 <figure class="content_img">
     <img loading="lazy"  src="https://media.giphy.com/media/l0DAG3B1k4I6p3pg4/giphy.gif" alt="nouveau lancement"  data-is-external-image="true">
 </figure>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Solocal</title>
-        <author>
-            <name>Cédric Gérard</name>
-        </author>
-        <link href="https://blog.d2velop.fr/solocal/"/>
-        <id>https://blog.d2velop.fr/solocal/</id>
-        <media:content url="https://blog.d2velop.fr/media/posts/15/logo_solocal.png" medium="image" />
-            <category term="Chroniques"/>
-
-        <updated>2023-05-08T18:32:13+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.d2velop.fr/media/posts/15/logo_solocal.png" alt="Logo de Solocal" />
-                    Alors voilà, c’est le moment où le groupe Solocal décide de revoir sa stratégie et d’intégrer plus activement ses différentes filiales. C’est le fameux passage en mode groupe. Depuis le début que j’étais chez Leadformance, que ce soit en presta ou en interne, il y&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.d2velop.fr/media/posts/15/logo_solocal.png" class="type:primaryImage" alt="Logo de Solocal" /></p>
-                <p>Alors voilà, c’est le moment où le groupe Solocal décide de revoir sa stratégie et d’intégrer plus activement ses différentes filiales. C’est le fameux passage en mode groupe.</p>
-<p>Depuis le début que j’étais chez Leadformance, que ce soit en presta ou en interne, il y avait le groupe qui gravitait autour de la startup, mais sans aucune interférence perceptible sur le terrain.</p>
-<h2 id="le-changement-cest-maintenant">Le changement c’est maintenant</h2>
-<p>Un jour, on apprend que le fondateur quitte le navire pour se lancer dans une autre aventure. Ça a mis un coup à la boite que je n’avais pas prévu. Il avait une sorte d’aura et un charisme qui permettait de facilement fédérer tout le monde. Il avait un enthousiasme naturel et communicatif qui faisait du bien.</p>
-<p>S’ensuivi plusieurs changements dans la gouvernance avec la reprise des fonctions de présidence par des membres de Solocal à Paris. Autant vous dire que niveau proximité, on n’était pas au top.</p>
-<p>Dans une logique de contrôle des coûts, le groupe a éliminé toutes les fonctions support jugées redondantes par rapport à celles déjà existantes à Paris. Au revoir donc la gestion financière et les ressources humaines à Chambéry. Bonjour les contacts par mail ou via des outils impersonnel pour échanger. Je suis mauvaise langue, notre nouvelle RH venait de temps en temps sur notre site pour que l’équipe puisse échanger de vive voix. En revanche, on a changé plusieurs fois de RH puisqu’elles ont démissionnées en série. De là à dire qu’il y avait un problème de management 😔</p>
-<h2 id="laccélération">L’accélération</h2>
-<p>Nous sommes restés comme cela un moment. Ensuite, les changements ont repris avec les changements gouvernances. Les conseillers clients ont été rattachés à une direction parisienne liée à la gestion des portefeuilles clients, l’IT à la DSI, et les devs à la direction technique du groupe. Pendant des semaines, les annonces de nouvelles nominations de managers se sont succédées avec des responsabilités toutes plus incompréhensibles les unes que les autres. Tout cela sans qu’aucun changement ne soit perceptible dans notre quotidien.</p>
-<p>Enfin si, le changement était une perte de communication horizontale. C’était un peu comme si les gens qui étaient sur la table d’à côté dans l’open-space ne faisaient plus partie de la même entité alors qu’on bossait sur le même produit.</p>
-<p>Adieu l’agilité. Enfin ailleurs que dans la communication. Car chaque présentation présentait l’entreprise comme une structure agile, mais ce n’était clairement pas le cas. Mais il semble que pour beaucoup de personnes qui n’ont pas l’état d’esprit agile, l’agilité se résume à faire de standup quotidien et des sprints.</p>
-<p>En revanche, on bossait quand même avec des cycles de mise en production à plusieurs mois. Dans lesquels toutes les filiales impliquées sur un projet finissent quelques semaines avant la deadline par balancer leur développement sur un environnement de QA. Là, des personnes dont tu n’as jamais entendu parler jouent des scénarios pour tester la solution complète. Bien évidemment, on ayant bossé sans réelle collaboration avec les autres équipes, rien ne fonctionne. Surtout avec les deadlines qui sont décidées avant même de savoir réellement ce qui doit être fait. Il y a donc les équipes qui ne livrent qu’une partie de ce qui est attendu, tant pis pour ceux qui en avait besoin et celles qui ont rusher à la fin et livrent des services qui plantent à la première requête en préprod.</p>
-<p>Il faut donc des semaines de correctif pour aboutir à une solution « viable ». C’est paradoxal, le passage sur l’environnement QA est peut-être le seul moment où l’on s’approche de l’agilité. C’est ici que tu as du feedback produit rapide après chaque déploiement et que tu peux faire un pas en avant avec un peu plus de certitude sur l’objectif à chaque itération.</p>
-<p>Au final avec quelques semaines/mois de retard, la solution passe en production. Côté technique tout le monde est frustré et fatigué, mais au final, il y a plein de responsables qui s’auto-congratulent dans les présentations lors du lancement. Le lancement du produit, c’est le jour où tu sais que tu vas passer ton temps sur l’outil de ticketing pour la gestion des bugs.</p>
-<h2 id="lourdeur">Lourdeur</h2>
-<p>Entrer dans un groupe de plusieurs milliers de personnes, c’est entrer dans une structure qui gère « en masse ». Autrement dit la petite startup de 60 personnes à 600 bornes de là ne pèse plus rien dans la balance et les prises de décisions.</p>
-<p>On passe donc dans une vision très centralisée. La tête décide et planifie et les organes périphériques exécutent le plan. Parfois sans vraiment comprendre le pourquoi du comment. Chaque décision est longue à être prise parce qu’elle implique beaucoup de personnes. Il y a donc des réunions et encore des réunions avant de pouvoir agir. Cela donne l’impression de devoir faire chaque pas avec des chaînes aux pieds.</p>
-<p>Un des points les plus difficiles à vivre, c’est la perte de maîtrise sur les aspects métier. Les filiales devenant des exécutants d’une stratégie globale, il se crée un fossé entre la vision terrain et les actions mises en place.</p>
-<h2 id="la-politique">La politique</h2>
-<p>L’aspect le plus agaçant pour moi, dans les structures de cette taille, est que tout est ultra politisé. Chaque discours ou présentation donne l’impression d’entendre un candidat à une élection en pleine compagne. On a des grandes présentations qui dure des heures pour au final ne pas dire grand-chose. Il y a également les gens qui vont dans les filiales un peu comme un politicien qui va rencontrer le peuple en province. C’est assez insupportable.</p>
-<p>Comme pour la politique, on sent un décalage énorme entre le vécu des employés et le discours du top management. Cela concourt aussi à la fatigue morale avec un sentiment d’incompréhension et l’idée qu’on ne compte pas vraiment pour l’entreprise.</p>
-<h2 id="la-carrière">La carrière</h2>
-<p>C’est l’autre élément qui créer un biais catastrophique dans les groupes. Chaque personne qui a un peu de responsabilité dans ces structures tant à en avoir plus par l’intermédiaire d’une promotion et d’un changement de poste. Le résultat c’est que chaque personne pense autant à sa propre carrière qu’a l’intérêt du produit. Le biais ici conduit à des prises de décision qui sont conditionnées par les opportunités de carrière. En gros, si pour un avancement une prise de risque ne semble pas indiquée, alors le manager va freiner toutes les initiatives  des quatre fers pour ne pas avoir à assumer un echec. A l’inverse, si la seule solution pour se faire voir c’est un coup d’éclat. Alors le manager peut avoir tendance à pousser les équipes plus que de raison. Cela peut amener à prendre des risques non calculés, juste dans une perspective de carrière.</p>
-<p>Dans les deux cas, ce sont les « exécutants » qui en pâtissent. Les managers ne tenant plus leur rôle auprès de leur équipe, car il joue à un autre jeu. Ces deux situations conduisent également à de la frustration, de la fatigue et des tensions.</p>
-<h2 id="tension-interne">Tension interne</h2>
-<p>C’est ce que j’ai vécu à Leadformance by Solocal. Les projets qui se marchent les uns sur les autres, les frustrations accumulées, le non-sens de projets en cours, l’incompréhension de la stratégie et le discours en bois des managers ont fini par créer des tensions au sein même de LF.</p>
-<p>Il y a eu une grosse perte de confiance d’une partie de l’équipe, des conflits entre les développeurs qui ont mené à des prises de bec qu’on ne devrait pas voir dans un cadre professionnel. LF s’est trouvé coupé en deux camps avec des difficultés qui se sont ressenties dans notre travail.</p>
-<h2 id="les-règles-du-jeu">Les règles du jeu</h2>
-<p>Annoncé comme ça, on se dit que bosser dans une boîte de ce genre est absolument à éviter. En fait, ce n’est pas forcément le cas. Tout comme pour les ESN, il faut comprendre les règles du jeu. Une fois ça en tête, on peut s’intéresser à ce qui a de la valeur pour nous et ne pas se laisser atteindre par ce qui n’en a pas.</p>
-<p>Ces structures ont généralement des moyens et proposent des problématiques techniques souvent très intéressantes. La lourdeur peut être aussi un moyen à exploiter pour travailler sur la qualité par exemple. Il y a beaucoup d’inertie et souvent du temps entre les projets par exemple.</p>
-<p>Les groupes offrent aussi d’autres avantages comme une forme de sécurité sur l’avenir. Si on connaît le fonctionnement, on peut facilement ne pas subir la pression. Il y également les avantages financiers qu’on peut obtenir, primes, CE, plan de retraite et autre intéressement.</p>
-<p>En revanche, il ne faut pas tomber dans l’ennui et être capable de conserver son employabilité par rapport à un marché qui peut évoluer plus vite que l’entreprise. Il ne faut pas avoir peur de n’être qu’un petit maillon de la chaîne en restant à des postes techniques.</p>
-<h2 id="pas-pour-moi">Pas pour moi</h2>
-<p>Je n’ai pas trouvé ma place dans cette nouvelle organisation, les frustrations et la fatigue accumulés dans la transformation on eu raison de ma motivation.</p>
-<p>Mais je n’étais pas dans l’idée de partir, je n’avais pas la force de passer des entretiens et des tests techniques. Alors j’ai décidé de retrouver l’envie par un projet personnel. C’est comme ça qu’est né D2velop.</p>
-
             ]]>
         </content>
     </entry>
