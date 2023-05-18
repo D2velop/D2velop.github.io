@@ -62,18 +62,30 @@
 </url>
 <url>
 <loc>https://blog.d2velop.fr/inria/</loc>
-<lastmod>2023-05-08T15:51:54+02:00</lastmod>
+<lastmod>2023-05-18T22:27:09+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/9/INRIA_logo.png</image:loc>
 <image:title><![CDATA[Log de INRIA]]></image:title>
 </image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/9/batiment-montbonnot.jpg</image:loc>
+<image:title><![CDATA[batiment]]></image:title>
+</image:image>
 </url>
 <url>
 <loc>https://blog.d2velop.fr/iut/</loc>
-<lastmod>2023-05-08T15:12:06+02:00</lastmod>
+<lastmod>2023-05-18T22:31:43+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/7/iut2_home.jpg</image:loc>
 <image:title><![CDATA[IUT 2 Grenoble entrée]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/7/choice-matrix.jpg</image:loc>
+<image:title><![CDATA[matrix choix]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/7/iut2_classroom.jpg</image:loc>
+<image:title><![CDATA[salle de classe]]></image:title>
 </image:image>
 </url>
 <url>
@@ -102,7 +114,7 @@
 </url>
 <url>
 <loc>https://blog.d2velop.fr/la-place-des-langages/</loc>
-<lastmod>2023-05-08T21:10:48+02:00</lastmod>
+<lastmod>2023-05-18T22:30:16+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/19/place_des_langages.jpg</image:loc>
 <image:title><![CDATA[Ecran avec du code source]]></image:title>
@@ -142,10 +154,14 @@
 </url>
 <url>
 <loc>https://blog.d2velop.fr/leadformance/</loc>
-<lastmod>2023-05-08T18:26:05+02:00</lastmod>
+<lastmod>2023-05-18T22:35:41+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/14/OIP.jpg</image:loc>
 <image:title><![CDATA[Logo de Leadformance]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/14/graph_qualite_vie.jpg</image:loc>
+<image:title><![CDATA[qualite de vie]]></image:title>
 </image:image>
 </url>
 <url>

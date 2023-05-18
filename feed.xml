@@ -336,8 +336,9 @@
         <link href="https://blog.d2velop.fr/la-place-des-langages/"/>
         <id>https://blog.d2velop.fr/la-place-des-langages/</id>
         <media:content url="https://blog.d2velop.fr/media/posts/19/place_des_langages.jpg" medium="image" />
+            <category term="Développeur Mindset"/>
 
-        <updated>2023-05-08T21:10:48+02:00</updated>
+        <updated>2023-05-18T22:30:16+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.d2velop.fr/media/posts/19/place_des_langages.jpg" alt="Ecran avec du code source" />
