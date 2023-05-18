@@ -36,7 +36,7 @@
 <p>En fait, et c’est <a href="https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html">Bob Martin qui le dit lui-même</a>, la meilleure question à se poser à ce sujet, c’est “A QUI?”. À qui est dédiée cette fonctionnalité ? Lorsqu’on est capable de répondre à ces questions, si une UdC est en charge de répondre aux demandes de plus d’un profil d’utilisateur alors elle ne respect par le principe de responsabilité unique. Elle a donc autant de raison de changer qu’il y a de profils concernés par son utilisation.</p>
 <p>Prenons un exemple concret:</p>
 <figure class="code_img">
-    <img loading="lazy"  src="media/files/no_srp_ruby.png" alt="no srp Ruby code"  data-is-external-image="true">
+    <img loading="lazy"  src="/no_srp_ruby.png" alt="no srp Ruby code"  data-is-external-image="true">
     <figcaption>Code qui ne respecte pas SRP</figcaption>
 </figure>
 
@@ -76,6 +76,7 @@
 
 <p>En conclusion, SRP, est un principe qui permet de garantir que le code est correctement reparti dans des UdC qui facilitent la lecture, le test et les modifications à venir. En revanche, on se retrouve avec beaucoup plus de fichiers par rapport à une approche traditionnelle basée sur les concepts réels (e.g. Employee). </p>
 <p>Je vous invite à avoir ce principe en tête lorsque vous codez. Le gain apporté par son utilisation en termes de maintenance et d’évolution en vaut vraiment le coup.</p>
+<p><figure class="post__image"><img loading="lazy" src="https://blog.d2velop.fr/media/posts/26/no_srp_ruby-2.png" alt="Image description" width="1064" height="1508"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-2-xs.png 300w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-2-sm.png 480w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-2-md.png 768w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-2-lg.png 1024w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-2-xl.png 1360w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-2-2xl.png 1600w"></figure></p>
 
             ]]>
         </content>
