@@ -3,7 +3,7 @@
     <title>d2velop</title>
     <link href="https://blog.d2velop.fr/feed.xml" rel="self" />
     <link href="https://blog.d2velop.fr" />
-    <updated>2023-05-18T22:59:00+02:00</updated>
+    <updated>2023-05-19T14:22:49+02:00</updated>
     <author>
         <name>Cédric Gérard</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://blog.d2velop.fr/media/posts/26/srp_title.png" medium="image" />
             <category term="Code"/>
 
-        <updated>2023-05-18T22:59:00+02:00</updated>
+        <updated>2023-05-19T14:22:49+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.d2velop.fr/media/posts/26/srp_title.png" alt="" />
@@ -33,7 +33,7 @@
 <p>Dit comme ça, ce principe semble simple à comprendre. Mais d’expérience, c’est certainement un des plus mal compris et maîtrisé. Par exemple, si je vous demande ce qu’on entend par “responsabilité”, qu’est-ce qui vous vient à l’esprit ?</p>
 <p>Régulièrement, on va dire que notre UdC ne doit être en charge que d’un seul traitement. Cette définition est tout aussi vague que la précédente. Une définition plus technique consiste à dire qu’une UdC ne doit avoir qu’une seule raison de changer. La encore, ce n’est pas évident de comprendre ce qu’on entend par la notion de changement. Est-ce qu’il s’agit seulement de l’ajout d’une fonctionnalité ? Un refactoring est-il considéré comme un changement ? Qu’en est-il de la monté de version d’un lib ?</p>
 <p>Pour mieux cerner ce principe, il faut comprendre que SRP est un principe qui concerne la répartition de la logique du code dans une application. En POO, on pourrait simplifier ça par le fait de savoir où mettre tel code dans telle classe ou module.</p>
-<p>En fait, et c’est <a href="https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html">Bob Martin qui le dit lui-même</a>, la meilleure question à se poser à ce sujet, c’est “A QUI?”. À qui est dédiée cette fonctionnalité ? Lorsqu’on est capable de répondre à ces questions, si une UdC est en charge de répondre aux demandes de plus d’un profil d’utilisateur alors elle ne respect par le principe de responsabilité unique. Elle a donc autant de raison de changer qu’il y a de profils concernés par son utilisation.</p>
+<p>En fait, et c’est <a href="https://blog.cleancoder.com/uncle-bob/2014/05/08/SingleReponsibilityPrinciple.html">Bob Martin qui le dit lui-même</a>, la meilleure question à se poser à ce sujet, c’est “A QUI?”. À qui est dédiée cette fonctionnalité ? Lorsqu’on est capable de répondre à cette question, si une UdC est en charge de répondre aux demandes de plus d’un profil d’utilisateur alors elle ne respect par le principe de responsabilité unique. Elle a donc autant de raison de changer qu’il y a de profils concernés par son utilisation.</p>
 <p>Prenons un exemple concret:</p>
 <figure class="code_img">
     <img loading="lazy" src="https://blog.d2velop.fr/media/posts/26/no_srp_ruby-3.png" alt="no srp Ruby code"  sizes="(max-width: 48em) 100vw, 768px" srcset="https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-3-xs.png 300w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-3-sm.png 480w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-3-md.png 768w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-3-lg.png 1024w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-3-xl.png 1360w ,https://blog.d2velop.fr/media/posts/26/responsive/no_srp_ruby-3-2xl.png 1600w">
