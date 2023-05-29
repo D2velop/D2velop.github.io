@@ -54,7 +54,7 @@
 </url>
 <url>
 <loc>https://blog.d2velop.fr/im-back/</loc>
-<lastmod>2023-05-11T23:55:05+02:00</lastmod>
+<lastmod>2023-05-29T23:01:36+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/25/cgerard_A_terminator_like_men_Schwarzenegger_with_sunglasses_ge_76cbd3a8-a12c-4b6a-a704-9c538b99523f.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -150,6 +150,42 @@
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/26/ruby_payroll_srp.png</image:loc>
 <image:title><![CDATA[srp Payroll]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.d2velop.fr/le-principe-ouvertferme/</loc>
+<lastmod>2023-05-29T22:59:48+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/title.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffees.png</image:loc>
+<image:title><![CDATA[Classes représentant les cafés]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine.png</image:loc>
+<image:title><![CDATA[Code de la machine à caffé]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_interface.png</image:loc>
+<image:title><![CDATA[Interface pour les cafés]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffees_ref.png</image:loc>
+<image:title><![CDATA[Les cafés étendant l'interface Coffee]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine_ref.png</image:loc>
+<image:title><![CDATA[La nouvelle version de la machine à café]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine_ref2.png</image:loc>
+<image:title><![CDATA[La version SRP de la machine à café]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_selector.png</image:loc>
+<image:title><![CDATA[Le selecteur de café]]></image:title>
 </image:image>
 </url>
 <url>
