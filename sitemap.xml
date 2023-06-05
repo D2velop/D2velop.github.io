@@ -189,6 +189,50 @@
 </image:image>
 </url>
 <url>
+<loc>https://blog.d2velop.fr/le-principe-ouvertferme-2/</loc>
+<lastmod>2023-06-05T23:01:30+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/liskov.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/liskov_bad_1-2.png</image:loc>
+<image:title><![CDATA[Code qui utilise une implementation qui ne respect pas le principe de Liskov]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/liskov_bad_2.png</image:loc>
+<image:title><![CDATA[Interface MusicDevice et code d'un dispositif cassé]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/liskov_good_1.png</image:loc>
+<image:title><![CDATA[Code d'un dispositif bluetooth cassé]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/liskov_good_2.png</image:loc>
+<image:title><![CDATA[Code d'un casque audio]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/liskov_good_3.png</image:loc>
+<image:title><![CDATA[Code d'un dispositif bluetooth fonctionnel]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/ruby_liskov_bad_1-2.png</image:loc>
+<image:title><![CDATA[Code d'une application de musique en Ruby]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/ruby_liskov_bad_2.png</image:loc>
+<image:title><![CDATA[Code d'une classe casque en Ruby]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/ruby_liskov_bad_3.png</image:loc>
+<image:title><![CDATA[Code d'une classe enceinte bluetooth en Ruby]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/28/ruby_liskov_bad_4.png</image:loc>
+<image:title><![CDATA[Code d'une classe enceinte bluetooth cassée en Ruby]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blog.d2velop.fr/leadformance/</loc>
 <lastmod>2023-05-18T22:35:41+02:00</lastmod>
 <image:image>
