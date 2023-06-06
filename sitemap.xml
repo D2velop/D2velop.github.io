@@ -153,44 +153,8 @@
 </image:image>
 </url>
 <url>
-<loc>https://blog.d2velop.fr/le-principe-ouvertferme/</loc>
-<lastmod>2023-05-29T22:59:48+02:00</lastmod>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/title.png</image:loc>
-<image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/coffees.png</image:loc>
-<image:title><![CDATA[Classes représentant les cafés]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine.png</image:loc>
-<image:title><![CDATA[Code de la machine à caffé]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_interface.png</image:loc>
-<image:title><![CDATA[Interface pour les cafés]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/coffees_ref.png</image:loc>
-<image:title><![CDATA[Les cafés étendant l'interface Coffee]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine_ref.png</image:loc>
-<image:title><![CDATA[La nouvelle version de la machine à café]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine_ref2.png</image:loc>
-<image:title><![CDATA[La version SRP de la machine à café]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_selector.png</image:loc>
-<image:title><![CDATA[Le selecteur de café]]></image:title>
-</image:image>
-</url>
-<url>
-<loc>https://blog.d2velop.fr/le-principe-ouvertferme-2/</loc>
-<lastmod>2023-06-05T23:01:30+02:00</lastmod>
+<loc>https://blog.d2velop.fr/le-principe-de-substitution-de-liskov/</loc>
+<lastmod>2023-06-06T13:05:00+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/28/liskov.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -230,6 +194,42 @@
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/28/ruby_liskov_bad_4.png</image:loc>
 <image:title><![CDATA[Code d'une classe enceinte bluetooth cassée en Ruby]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://blog.d2velop.fr/le-principe-ouvertferme/</loc>
+<lastmod>2023-05-29T22:59:48+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/title.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffees.png</image:loc>
+<image:title><![CDATA[Classes représentant les cafés]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine.png</image:loc>
+<image:title><![CDATA[Code de la machine à caffé]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_interface.png</image:loc>
+<image:title><![CDATA[Interface pour les cafés]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffees_ref.png</image:loc>
+<image:title><![CDATA[Les cafés étendant l'interface Coffee]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine_ref.png</image:loc>
+<image:title><![CDATA[La nouvelle version de la machine à café]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_machine_ref2.png</image:loc>
+<image:title><![CDATA[La version SRP de la machine à café]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/27/coffee_selector.png</image:loc>
+<image:title><![CDATA[Le selecteur de café]]></image:title>
 </image:image>
 </url>
 <url>

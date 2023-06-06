@@ -3,7 +3,7 @@
     <title>d2velop</title>
     <link href="https://blog.d2velop.fr/feed.xml" rel="self" />
     <link href="https://blog.d2velop.fr" />
-    <updated>2023-06-06T09:00:00+02:00</updated>
+    <updated>2023-06-06T13:05:00+02:00</updated>
     <author>
         <name>Cédric Gérard</name>
     </author>
@@ -14,12 +14,12 @@
         <author>
             <name>Cédric Gérard</name>
         </author>
-        <link href="https://blog.d2velop.fr/le-principe-ouvertferme-2/"/>
-        <id>https://blog.d2velop.fr/le-principe-ouvertferme-2/</id>
+        <link href="https://blog.d2velop.fr/le-principe-de-substitution-de-liskov/"/>
+        <id>https://blog.d2velop.fr/le-principe-de-substitution-de-liskov/</id>
         <media:content url="https://blog.d2velop.fr/media/posts/28/liskov.png" medium="image" />
             <category term="Code"/>
 
-        <updated>2023-06-06T09:00:00+02:00</updated>
+        <updated>2023-06-06T13:05:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://blog.d2velop.fr/media/posts/28/liskov.png" alt="" />
