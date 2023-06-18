@@ -153,6 +153,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://blog.d2velop.fr/le-principe-de-segregation-des-interfaces/</loc>
+<lastmod>2023-06-18T10:09:52+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/29/isp_title.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blog.d2velop.fr/le-principe-de-substitution-de-liskov/</loc>
 <lastmod>2023-06-06T13:05:00+02:00</lastmod>
 <image:image>

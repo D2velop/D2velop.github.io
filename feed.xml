@@ -3,12 +3,198 @@
     <title>d2velop</title>
     <link href="https://blog.d2velop.fr/feed.xml" rel="self" />
     <link href="https://blog.d2velop.fr" />
-    <updated>2023-06-06T13:05:00+02:00</updated>
+    <updated>2023-06-19T09:00:00+02:00</updated>
     <author>
         <name>Cédric Gérard</name>
     </author>
     <id>https://blog.d2velop.fr</id>
 
+    <entry>
+        <title>Le principe de ségrégation des interfaces</title>
+        <author>
+            <name>Cédric Gérard</name>
+        </author>
+        <link href="https://blog.d2velop.fr/le-principe-de-segregation-des-interfaces/"/>
+        <id>https://blog.d2velop.fr/le-principe-de-segregation-des-interfaces/</id>
+        <media:content url="https://blog.d2velop.fr/media/posts/29/isp_title.png" medium="image" />
+            <category term="Code"/>
+
+        <updated>2023-06-19T09:00:00+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://blog.d2velop.fr/media/posts/29/isp_title.png" alt="" />
+                    Le principe de ségrégation des interfaces (Interface Segregation Principle ou ISP) est l’un des cinq principes SOLID de la programmation orientée objet. Il met l’accent sur la conception d’interfaces claires, spécifiques et cohérentes pour les clients, afin de minimiser les dépendances inutiles et de favoriser&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://blog.d2velop.fr/media/posts/29/isp_title.png" class="type:primaryImage" alt="" /></p>
+                <p>Le principe de ségrégation des interfaces (Interface Segregation Principle ou ISP) est l’un des cinq principes SOLID de la programmation orientée objet. Il met l’accent sur la conception d’interfaces claires, spécifiques et cohérentes pour les clients, afin de minimiser les dépendances inutiles et de favoriser la modularité et la flexibilité du code.</p>
+<p>Selon le principe ISP, les clients (classes, modules, ou composants) ne devraient pas être forcés d’implémenter des fonctionnalités dont ils n’ont pas besoin. Au lieu de cela, les interfaces doivent être suffisamment spécifiques pour répondre exactement aux besoins des clients spécifiques.</p>
+<p>Prenons un cas concret :</p>
+<div class='code-toolbar'>
+    <pre>
+        <code class="language-typescript">
+interface MusicPlayer {
+    playMusic(): void;
+    stopMusic(): void;
+    displayLyrics(): void;
+}
+        </code>
+    </pre>
+    <span class="toolbar">TypeScript</span>
+</div>
+Voici le contrat d'interface pour un lecteur de musique.
+
+<p>Maintenant, ajoutons deux lecteurs avec des implémentations et des cibles différentes.</p>
+<div class='code-toolbar'>
+    <pre>
+        <code class="language-typescript">
+class MobilePlayer implements MusicPlayer {
+    public playMusic(): void {
+        console.log("Playing music...");
+    }
+<br/>
+    public stopMusic(): void {
+        console.log("Stopping music...");
+    }
+<br/>
+    public displayLyrics(): void {
+        console.log("Displaying lyrics...");
+    }
+}
+        </code>
+    </pre>
+    <span class="toolbar">TypeScript</span>
+</div>
+
+<p>La première implémentation de notre contrat concerne un lecteur pour mobile. Ce lecteur support les trois fonctionnalités du contrat.</p>
+<div class='code-toolbar'>
+    <pre>
+        <code class="language-typescript">
+class Radio implements MusicPlayer {
+    playMusic(): void {
+        console.log("Playing music...");
+    }
+<br/>
+    stopMusic(): void {
+        console.log("Stopping music...");
+    }
+<br/>
+    displayLyrics(): void {
+        throw new Error("Radio doesn't support displaying lyrics.");
+    }
+}
+        </code>
+    </pre>
+    <span class="toolbar">TypeScript</span>
+</div>
+
+<p>Maintenant, c’est une radio, qui ne supporte pas l’affichage des paroles. Dans ce cas, la classe Radio est obligée de mettre en œuvre la méthode <code>displayLyrics</code> même si elle n’en a pas besoin. La classe Radio est forcée de fournir une implémentation vide ou de lancer une exception pour une fonctionnalité qui n’est pas pertinente pour elle. De plus, lancer une exception ici viole également le principe de Liskov, dont vous pouvez trouver une présentation dans <a href="https://blog.d2velop.fr/le-principe-de-substitution-de-liskov/">l’article de la semaine dernière</a>, car on ne peut pas substituer la radio à tous les <code>MusicPlayer</code> sans causer de problème lors de l’appel à la méthode <code>displayLyrics</code>.</p>
+<p>Remanions un peu ce code afin de régler le problème et de respecter le principe ISP. La première étape consiste à séparer notre interface en deux.</p>
+<div class='code-toolbar'>
+    <pre>
+        <code class="language-typescript">
+interface MusicPlayer {
+    playMusic(): void;
+    stopMusic(): void;
+}
+<br/>
+interface LyricsDisplay {
+    displayLyrics(): void;
+}
+        </code>
+    </pre>
+    <span class="toolbar">TypeScript</span>
+</div>
+
+<p>Nous pouvons donc maintenant implémenter ces interfaces depuis nos deux lecteurs précédents.</p>
+<div class='code-toolbar'>
+    <pre>
+        <code class="language-typescript">
+class MobilePlayer implements MusicPlayer, LyricsDisplay {
+    playMusic(): void {
+        console.log("Playing music...");
+    }
+<br/>
+    stopMusic(): void {
+        console.log("Stopping music...");
+    }
+<br/>
+    displayLyrics(): void {
+        console.log("Displaying lyrics...");
+    }
+}
+<br/>
+class Radio implements MusicPlayer {
+    playMusic(): void {
+        console.log("Playing music...");
+    }
+<br/>
+    stopMusic(): void {
+        console.log("Stopping music...");
+    }
+}
+        </code>
+    </pre>
+    <span class="toolbar">TypeScript</span>
+</div>
+
+<p>Dans cet exemple, nous avons divisé l’interface <code>MusicPlayer</code> en deux avec d’un part <code>MusicPlayer</code> et d’autre part <code>LyricsDisplay</code>. La classe <code>MobilePlayer</code> implémente les deux interfaces, car elle a besoin des fonctionnalités de lecture de musique et d’affichage des paroles. La classe Radio implémente uniquement l’interface <code>MusicPlayer</code>, car elle n’a pas besoin de la fonctionnalité d’affichage des paroles.</p>
+<p>Ainsi, en respectant le principe ISP, nous avons créé des interfaces spécifiques qui permettent aux clients de dépendre uniquement des fonctionnalités dont ils ont besoin, évitant ainsi d’avoir à implémenter des fonctionnalités inutiles. Nos deux implémentations sont bien interchangeables partout où l’on souhaite avoir un lecteur de musique.</p>
+<p>Ce principe s’applique particulièrement pour les langages typés statiquement (comme TypeScript). Bien que le problème puisse se retrouver également dans les langages typés dynamiquement (Ruby par exemple).</p>
+<p>Reprenons notre exemple, mais avec Ruby cette fois-ci. Dans le cas d’un langage typé dynamiquement, on ne peut pas créer d’interface pour définir un contrat et on n’a pas de type dans nos fonctions pour nous garantir ce qu’on doit avoir en paramètre ou en retour d’une fonction. En Ruby, on considère que toute instance qui répond aux attentes d’une fonction peut être utilisée. En d’autres termes, peu importe le type de l’élément passé en paramètre, si notre fonction à besoin d’appeler la méthode <code>foo</code> sur cet élément, alors toutes les instances de classes ou structure de données qui ont une méthode <code>foo</code> peuvent être substituée.</p>
+<p>Voici la première implémentation de lecteur mobile :</p>
+<div class='code-toolbar'>
+    <pre>
+        <code class="language-ruby">
+class MobilePlayer
+<br/>
+  def play_music
+    puts "Playing music..."
+  end
+<br/>
+  def stop_music
+    puts "Stopping music..."
+  end
+<br/>
+  def display_lyrics
+    puts "Displaying lyrics..."
+  end
+    <br/>
+end
+        </code>
+    </pre>
+    <span class="toolbar">Ruby</span>
+</div>
+
+<p>En maintenant l’implémentation de la radio :</p>
+<div class='code-toolbar'>
+    <pre>
+        <code class="language-ruby">
+class Radio
+ <br/>
+  def play_music
+    puts "Playing music..."
+  end
+<br/>
+  def stop_music
+    puts "Stopping music..."
+  end
+    <br/>
+end
+        </code>
+    </pre>
+    <span class="toolbar">Ruby</span>
+</div>
+
+<p>Cette dernière ne propose une implémentation que pour les deux premières méthodes et ne peut donc pas afficher les paroles.</p>
+<p>En Ruby, ces deux classes sont parfaitement interchangeables pour les méthodes <code>play_music</code> et <code>stop_music</code>. En revanche, ce n’est pas le cas pour <code>display_lyrics</code> qui va provoquer une <code>NoMethodError</code> avec une instance de Radio. Ce n’est pas forcément un problème, car il n’y a pas de classe parente ici puisqu’il n’y a pas besoin de créer un contrat dans un langage typé dynamiquement. En revanche, pour éviter les bugs, il faut beaucoup de vigilance aux développeurs afin de ne pas se retrouver à utiliser une instance de classe dans un contexte auquel elle n’est pas adaptée. C’est pour cette raison qu’en Ruby (tout comme en JavaScript) on se retrouve avec beaucoup de programmation défensive. Dans le cas présent, pour l’affichage des paroles, on pourrait tester au préalable si notre instance répond à la méthode <code>display_lyrics</code> (<code>object.respond_to?(:display_lyrics)</code>) avant de l’appeler.</p>
+<p>En conclusion, on peut retenir que dans le cadre d’un langage typé statiquement, lorsqu’on définit des contrats explicites, il faut faire attention à avoir des contrats adaptés à nos clients. L’objectif étant de ne pas forcer des implémentations du contrat à produire du code inutilement. Pour un langage typé dynamiquement, on ne définit pas de contrat explicite. Donc il n’y a pas d’obligation d’implémenter des méthodes dont on n’a pas besoin. Il est plus facile de ne pas se retrouver à devoir fournir une implémentation de quelque chose sans en avoir le besoin. En revanche, il n’y a pas non plus d’assurance que le composant qu’on utilise est correcte. Il n’y a aucune garantie que les implémentations respectent bien un contrat particulier (nom et paramètre des fonctions ainsi que ce que la fonction retourne comme type de valeur). Cela met la rigueur des développeurs à rude épreuve et est souvent la cause des bugs d’une application.</p>
+
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Le principe de substitution de Liskov</title>
         <author>
@@ -480,45 +666,6 @@
 <p>Il existe bien d’autres dogmes issus, le plus souvent, d’un manque de connaissance du milieu. Certains concernent les langages eux-mêmes. Dans le domaine du développement web, en particulier chez les juniors, il n’est pas rare d’entendre que le langage C est mort et que Java (pour ne citer que lui) ne va pas tarder à disparaître. La première fois que j’ai entendu parler de la fin de Java, on devait être en 2008. À l’époque Java 6 avait un peu plus d’un an d’existence. Il y a eu entre temps une nouvelle version par an, pour conduire Oracle, en septembre dernier, à sortir la version 17 de Java. Pas mal pour une technologie soi-disant à l’agonie.</p>
 <p>Je ne vais pas faire ici la toute la litanie des dogmes qu’on peut rencontrer. Il faut avoir en tête que le monde de l’informatique bouge très vite sur certains aspects, mais qu’il repose sur un socle solide qui lui n’est pas révolutionné tous les jours. Il faut également voir qu’on fait partie d’un univers extrêmement vaste. Je parle ici pour les développeurs web qui ont tendance à ignorer que l’informatique est un domaine bien plus large que le web et que les technologies qui leur paraissent obsolètes sont parfois les fondations sur lesquelles ils doivent construisent.</p>
 <p>Il est important d’avoir un état d’esprit fondamentalement prêt à la remise en question pour devenir un bon développeur. Il ne faut pas rester sur des certitudes si on n’est pas capable, soi-même, de les justifier avec un argumentaire ou des sources valables. C’est de cette manière qu’on évite de se bloquer sur une idée. Cela peut sembler rassurant, on a l’impression d’avoir des convictions, d’appartenir à un groupe. Au final, on perd notre capacité de jugement et on fini par se fermer à la réalité. Ceci peut avoir un mauvais impact sur notre employabilité future et nous faire tomber de haut.</p>
-
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>La place des langages</title>
-        <author>
-            <name>Cédric Gérard</name>
-        </author>
-        <link href="https://blog.d2velop.fr/la-place-des-langages/"/>
-        <id>https://blog.d2velop.fr/la-place-des-langages/</id>
-        <media:content url="https://blog.d2velop.fr/media/posts/19/place_des_langages.jpg" medium="image" />
-            <category term="Développeur Mindset"/>
-
-        <updated>2023-05-18T22:30:16+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://blog.d2velop.fr/media/posts/19/place_des_langages.jpg" alt="Ecran avec du code source" />
-                    Le métier de développeur. C’est aujourd’hui un métier très prisé. Il y a beaucoup de demandes sur le marché de l’emploi, les conditions de travail sont bonnes tout comme les salaires. Dans ce contexte, bon nombre de formations sont apparues pour former des développeurs s’appuyant&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://blog.d2velop.fr/media/posts/19/place_des_langages.jpg" class="type:primaryImage" alt="Ecran avec du code source" /></p>
-                <p>Le métier de développeur. C’est aujourd’hui un métier très prisé. Il y a beaucoup de demandes sur le marché de l’emploi, les conditions de travail sont bonnes tout comme les salaires.</p>
-<p>Dans ce contexte, bon nombre de formations sont apparues pour former des développeurs s’appuyant sur le « manque » de profils pour attirer du monde. Elles s’appuient sur les demandes des entreprises qui cherchent des développeurs RoR, React, Angular, Android, PhP, etc.</p>
-<p>Elles se sont donc mises à former des profils pour ces technologies. On a vu fleurir un paquet de formations sur quelques mois, de bootcamps et de formations en ligne qui promettent de devenir développeur. Elles promettent qu’en sachant utiliser ces outils, on peut trouver un job rapidement parce que la demande est énorme dans le monde.</p>
-<p>Si on regarde les choses simplement, ce n’est pas idiot. Les entreprises ont besoin de développeurs sur la techno machin, et bien, si on forme de gens pour développer avec cette techno, on répond à la demande et tout roule. Sauf que pas de bol, ce n’est pas aussi simple.</p>
-<h3 id="un-développeur-nest-pas-bloqué-sur-un-langage">Un développeur n’est pas bloqué sur un langage</h3>
-<p>En fait, cela ne marche que si on considère que les développeurs sont des ressources comme des machines à produire. C’est-à-dire qu’on peut remplacer n’importe quel développeur par un autre utilisant la même techno. Donc si on amène plus de ressources sur le marché les entreprises auront ce qu’elles demandent. Sauf qu’un employé n’est pas une machine et qu’un développeur est bien plus qu’un langage.</p>
-<p>En fait, les langages ne sont qu’une infime partie des compétences nécessaires. Pire que ça, les langages ne sont pas des connaisances transposables facilement. Par exemple, une expertise PHP ne sert plus à rien si on se retrouve à devoir travailler sur un projet qui utilise Scala. C’est même pire quand on pense à AngularJs VS Angular2. En revanche, les compétences profondes qui font un bon développeur, ne sont pas limitées aux technologies. La maîtrise de la programmation orientée objet est valorisable de la même manière qu’on code en Java, TypeScript ou Ruby. La compréhension des architectures logicielles et des techniques de programmation le sont tout autant. Ce sont ces compétences qui sont importantes aujourd’hui et qui sont malheureusement manquantes sur le marché.</p>
-<p>On imagine souvent un développeur collé derrière son écran à pondre des lignes de code. Mais c’est un stéréotype et surtout éloigné du métier d’un développeur aujourd’hui. On passe beaucoup plus de temps à réfléchir, modéliser, concevoir, échanger ou débattre qu’à écrire du code.</p>
-<p>En fait, l’écriture du code est l’étape ultime d’un processus bien plus long. Et les langages de programmation sont les outils utilisés lors de cette étape. Pourtant, on continue de les mettre en avant comme s’ils étaient l’essentiel de notre métier.</p>
-<p>Dans mes expériences, j’ai pratiqué plusieurs langages C, C++, Java, JavaScript, TypeScript, Python, Ruby, OCaml. Je ne suis jamais devenu un expert dans aucun langage ni aucun Framework, car je me suis toujours concentré sur des compétences qui vont au-delà des outils et je me suis aussi intéressé au métier. Heureusement que j’ai eu cette façon de voir les choses. Cela me permet d’être mobile, je peux m’adapter à n’importe quel outil (langage, Framework, IDE, plateforme, etc.) en fonction du besoin ou du contexte. Si je dois chercher un nouveau poste, je ne vais pas me limiter aux technologies utilisées. Je ne dis pas que je n’ai pas mes préférences, mais, l’entreprise, son contexte et son métier sont bien plus importants que le Framework qui a été choisi pour un service.</p>
-<h3 id="quelle-place-laisser-aux-langages-">Quelle place laisser aux langages ?</h3>
-<p>Quand on se pose la question de la place des langages dans le métier de développeur, il paraît évident qu’ils sont un des aspects les plus visibles. Certainement, parce qu’ils sont utilisés comme accroche sur les offres d’emploi. Parce qu’il semble plus facile de lier l’offre et la demande sur des noms de techno. Parce que cela semble plus aisé d’évaluer le niveau de quelqu’un en se concentrant sur cet aspect.</p>
-<p>Le souci, c’est que cela revient à se concentrer sur un seul aspect du notre métier et je dirai qu’il ne s’agit même pas du plus important. J’embaucherais sans hésiter quelqu’un qui n’a jamais utilisé les langages de ma boite, mais qui vient avec la maîtrise du TDD, de l’architecture hexagonale et des concepts qui la composent. À l’inverse, je me poserais beaucoup plus de questions quant à prendre un expert dans le langage utilisé sans aucune connaissances des bonnes pratiques de notre métier. Avec une bonne compréhension des paradigmes de programmation et une bonne maîtrise des compétences profondes, un langage s’apprend rapidement. Il est, en revanche, beaucoup plus compliqué d’acquérir ces compétences lorsque notre expertise n’est bâtie que sur des outils.</p>
-<h3 id="conseil-pour-les-développeurs-juniors-ou-en-formation">Conseil pour les développeurs juniors ou en formation</h3>
-<p>Ne vous prenez pas le têtes sur les technologies. Elles n’ont pas autant de valeur qu’on peut vous le faire penser. Elles peuvent disparaître aussi vite qu’elles sont apparues. Au début, contentez-vous d’un ou deux langages (un front et un back par exemple) et d’un framework. Concentrez vos efforts sur des compétences plus valorisables, comme la POO (programmation orientée objet), les principes d’architecture, les designs patterns, l’algorithmie, les tests, le TDD (test driven development) et la liste est encore longue. Mais je peux vous garantir qu’avec ça dans votre arsenal, les entretiens techniques ne seront plus qu’une formalité.</p>
 
             ]]>
         </content>
