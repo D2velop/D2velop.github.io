@@ -205,6 +205,14 @@
 </image:image>
 </url>
 <url>
+<loc>https://blog.d2velop.fr/le-principe-dinjection-de-dependance/</loc>
+<lastmod>2023-06-25T22:18:08+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.d2velop.fr/media/posts/30/di.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blog.d2velop.fr/le-principe-ouvertferme/</loc>
 <lastmod>2023-05-29T22:59:48+02:00</lastmod>
 <image:image>
@@ -300,7 +308,7 @@
 </url>
 <url>
 <loc>https://blog.d2velop.fr/principes-solid-intro-2/</loc>
-<lastmod>2023-05-18T13:53:35+02:00</lastmod>
+<lastmod>2023-06-25T00:12:38+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.d2velop.fr/media/posts/24/solid.png</image:loc>
 <image:title><![CDATA[]]></image:title>
